@@ -14,8 +14,17 @@ import logging
 
 import pandas as pd
 
-from newsom2028 import config, ev
-from newsom2028.collectors import fredseries, kalshi, polling, polymarket, wikipedia_views
+from newsom2028 import config, endorsements, ev, venues
+from newsom2028.collectors import (
+    fredseries,
+    gdelt,
+    kalshi,
+    manifold,
+    metaculus,
+    polling,
+    polymarket,
+    wikipedia_views,
+)
 from newsom2028.models import ensemble, market_structure
 
 log = logging.getLogger(__name__)
@@ -32,8 +41,15 @@ def collect_all() -> dict[str, pd.DataFrame]:
     views = wikipedia_views.collect()
     log.info("collecting FRED ...")
     fred = fredseries.collect()
+    log.info("collecting Manifold ...")
+    mani = manifold.collect()
+    log.info("collecting Metaculus (token-gated) ...")
+    meta = metaculus.collect()
+    log.info("collecting GDELT (rate-limited, ~1 min) ...")
+    news = gdelt.collect()
     return {"polymarket": poly, "kalshi": kal, "polling": polls,
-            "views": views, "fred": fred}
+            "views": views, "fred": fred, "manifold": mani,
+            "metaculus": meta, "gdelt": news}
 
 
 def latest_polymarket_snapshot() -> pd.DataFrame:
@@ -126,6 +142,9 @@ def run_models(as_of: dt.date | None = None) -> dict:
         "contracts": {k: vars(v) for k, v in contracts.items()},
         "scenarios": scenarios,
         "implied_conditionals": conditionals.to_dict("records"),
+        "venues": venues.dem_nominee_comparison(),
+        "gdelt": gdelt.latest_summary(),
+        "endorsements": endorsements.points(),
         "gate": {
             "edge_ratio": config.EDGE_RATIO,
             "gate_percentile": config.GATE_PERCENTILE,

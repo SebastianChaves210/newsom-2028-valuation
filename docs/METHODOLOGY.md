@@ -132,7 +132,28 @@ price converges a fraction κ ∈ {0.25, 0.5, 0.75} toward model fair value. The
 assumptions about **other traders' future beliefs**, not about Newsom, and are labelled
 speculative wherever they appear.
 
-## 8. What "backtesting" means here
+## 8. Phase-2 diagnostics (outside the fair-value model, by design)
+
+Three signal families were added after v1 and deliberately kept **out** of the fair-value
+ensemble until they earn their way in:
+
+- **Cross-venue consensus.** The Dem-nomination question priced by four different crowds
+  (Polymarket real-money/crypto, Kalshi real-money/regulated, Manifold play-money,
+  Metaculus reputation-forecasters, token-gated). Play-money and forecaster venues have
+  no capital lockup, hence no carry discount and plausibly less favorite-longshot bias —
+  so a systematic Polymarket-below-Manifold gap on Newsom is evidence *about the bias
+  correction*, not just noise. Reported with a per-candidate max−min spread.
+- **Media tone and volume (GDELT).** Tier 3, firewalled. Its purpose is to accumulate
+  the dataset for a lead-lag study: if daily tone changes systematically *precede* price
+  changes, sentiment earns promotion to an entry/exit timing signal — never to fair
+  value. Until that test exists, it is context on the dashboard.
+- **Endorsement primary.** FiveThirtyEight-weighted elite endorsements (governor 10,
+  senator 5, representative 1) — the strongest early nomination predictor in the
+  political-science literature (*The Party Decides*). The tracker is armed but empty
+  (no declared candidates as of 2026-08); once populated it is the leading candidate to
+  become a fifth model lane, with the lane-weight change documented in git history.
+
+## 9. What "backtesting" means here
 
 The 2028 outcome cannot test this model (single event). What is tested against history:
 

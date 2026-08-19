@@ -67,9 +67,9 @@ Kelly fractions are reported for any BUY, with half-Kelly recommended.
 
 | Tier | Sources | Role |
 |---|---|---|
-| 1 | Polymarket (prices + full contract history, public API), Kalshi (cross-venue check), Wikipedia's structured 2028-primary polling tables, hand-curated 1972–2024 nomination panel | Drives fair value |
+| 1 | Polymarket (prices + full contract history), Kalshi, Manifold (play money), Metaculus (forecaster crowd, token-gated), Wikipedia's structured 2028-primary polling tables, hand-curated 1972–2024 nomination panel, endorsement tracker (armed) | Drives fair value / cross-venue consensus |
 | 2 | FRED (2-yr Treasury for carry, macro context) | Priors and economics |
-| 3 | Wikipedia pageviews (attention proxy) | Dashboard momentum panel **only** — firewalled from fair value |
+| 3 | Wikipedia pageviews, GDELT news volume + tone (media sentiment) | Dashboard context **only** — firewalled from fair value, accumulating data for a price-lead-lag study |
 
 Every collector is append-only: each run snapshots into `data/snapshots/<source>/<date>.csv`,
 so the repository accumulates its own history. The hand-curated historical panel and its
@@ -78,11 +78,14 @@ coding rules are documented in [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md).
 ## Reproducing
 
 ```bash
-uv sync --no-editable --extra dev
-uv run newsom2028 run      # collect all sources + model + report + dashboard
-uv run newsom2028 model    # re-model from existing snapshots (offline)
-uv run pytest              # test suite
+# --no-editable is deliberate: some Python builds mishandle uv's editable .pth files
+uv run --no-editable --extra dev newsom2028 run    # collect + model + report + dashboard
+uv run --no-editable --extra dev newsom2028 model  # re-model from existing snapshots (offline)
+uv run --no-editable --extra dev pytest            # test suite
 ```
+
+Optional: set `METACULUS_TOKEN` (free account → API token) to enable the Metaculus
+collector; everything else is keyless.
 
 ## Repository layout
 

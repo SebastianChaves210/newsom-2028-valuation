@@ -9,6 +9,9 @@
 | 2028 Dem primary polling | Wikipedia nationwide-polling page (structured tables) | daily | 1 | pollster-level rows; used only to establish Newsom's early rank |
 | FRED | `fred.stlouisfed.org/graph/fredgraph.csv` | daily | 2 | DGS2 (carry), UNRATE, UMCSENT; keyless |
 | Wikipedia pageviews | `wikimedia.org/api/rest_v1/metrics/pageviews` | daily | 3 | attention proxy; dashboard only, firewalled from fair value |
+| Manifold | `api.manifold.markets/v0` | daily | 1 | play-money forecasting market; no capital lockup → different bias profile; cross-venue consensus; keyless |
+| Metaculus | `metaculus.com/api/posts` | daily | 1 | reputation-based forecaster crowd with strong published calibration; **requires free `METACULUS_TOKEN`** (env var locally, Actions secret in CI); skipped gracefully without it |
+| GDELT | `api.gdeltproject.org/api/v2/doc/doc` | daily | 3 | worldwide news volume + tone per candidate; keyless, rate-limited 1 req/5s (collector serializes); firewalled from fair value, accumulates the lead-lag dataset |
 
 All collectors degrade gracefully (a failed source logs a warning and the pipeline
 continues on the last good snapshot).
@@ -37,6 +40,16 @@ candidacies per contest. Coding rules:
 - **Flags.** `sitting_governor`, `former_governor`, `sitting_vp`, `prior_nominee`,
   `prior_run` at time of candidacy; `won_nomination`, `won_general` outcomes.
 
+### `endorsements.csv` (armed, currently empty)
+
+One row per formal endorsement of a 2028 presidential candidate by a sitting governor,
+U.S. senator, or U.S. representative. Weighted per FiveThirtyEight's endorsement primary
+(governor 10, senator 5, representative 1); the weighted tally is political science's
+best-documented early nomination predictor (Cohen, Karol, Noel & Zaller, *The Party
+Decides*). Empty as of 2026-08 because no candidate has declared — populated by hand as
+endorsements occur, and surfaces in reports automatically. Once meaningful data exists
+this is a candidate fifth model lane.
+
 ### `open_seat_generals.csv`
 
 Post-WWII general elections with no incumbent on the ballot (1952, 1960, 1968, 1988,
@@ -49,7 +62,7 @@ the presidency (2000 counted as an out-party win via the Electoral College; note
   unstable, and no credible evidence links 27-months-out social sentiment to nomination
   probability. The architecture leaves a Tier 3 slot if that changes.
 - **Google Trends** — no stable public API (pytrends is unmaintained and rate-limited);
-  Wikipedia pageviews serve the same attention-proxy role more reliably.
+  GDELT news volume and Wikipedia pageviews serve the attention-proxy role more reliably.
 - **Campaign finance (FEC)** — no 2028 presidential committees exist yet; the collector
   slot is planned for when filings begin (money primary is a genuine Tier 1 signal
   *once it exists*).

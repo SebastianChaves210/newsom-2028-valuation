@@ -13,7 +13,27 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-ROOT = Path(__file__).resolve().parents[2]
+
+
+def _find_root() -> Path:
+    """Locate the repository root regardless of how the package is installed.
+
+    Priority: NEWSOM2028_ROOT env var; else walk up from the working directory
+    looking for data/reference (the pipeline is normally run from the repo);
+    else fall back to the source-tree heuristic (src/newsom2028/config.py).
+    """
+    import os
+
+    if env := os.environ.get("NEWSOM2028_ROOT"):
+        return Path(env).resolve()
+    cwd = Path.cwd().resolve()
+    for candidate in (cwd, *cwd.parents):
+        if (candidate / "data" / "reference").is_dir():
+            return candidate
+    return Path(__file__).resolve().parents[2]
+
+
+ROOT = _find_root()
 DATA_DIR = ROOT / "data"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
 REFERENCE_DIR = DATA_DIR / "reference"

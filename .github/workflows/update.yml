@@ -20,10 +20,12 @@ jobs:
         run: uv sync --no-editable --extra dev
 
       - name: Run tests
-        run: uv run pytest -q
+        run: uv run --no-editable --extra dev pytest -q
 
       - name: Collect data and run models
-        run: uv run newsom2028 run
+        run: uv run --no-editable --extra dev newsom2028 run
+        env:
+          METACULUS_TOKEN: ${{ secrets.METACULUS_TOKEN }}
 
       - name: Commit refreshed data, report, dashboard
         run: |

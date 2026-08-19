@@ -106,6 +106,48 @@ def write(record: dict) -> str:
         add(f"| {row['candidate']} | {_cents(row['nominee_price'])} | "
             f"{_cents(row['president_price'])} | {_pct(row['implied_conditional'])} |")
     add("")
+    if record.get("venues"):
+        add("## Cross-venue consensus (Democratic nomination)")
+        add("")
+        add("The same question priced by four different crowds. `spread` = max − min; "
+            "a large Newsom spread means Polymarket is an outlier rather than the "
+            "consensus:")
+        add("")
+        venue_names = [k for k in record["venues"][0] if k not in ("candidate", "spread")]
+        add("| Candidate | " + " | ".join(v.title() for v in venue_names) + " | Spread |")
+        add("|---|" + "---|" * (len(venue_names) + 1))
+        for row in record["venues"]:
+            cells = [
+                _pct(row[v]) if row.get(v) is not None else "—" for v in venue_names
+            ]
+            add(f"| {row['candidate']} | " + " | ".join(cells) + f" | {_pct(row['spread'])} |")
+        add("")
+    if record.get("gdelt"):
+        add("## Media coverage, trailing 30 days (Tier 3 — context only)")
+        add("")
+        add("GDELT worldwide news monitoring. Volume = share of all monitored articles; "
+            "tone < 0 = net-negative coverage. Firewalled from fair value:")
+        add("")
+        add("| Candidate | Coverage volume | Avg tone |")
+        add("|---|---|---|")
+        for row in record["gdelt"]:
+            add(f"| {row['candidate']} | {row['avg_volume']} | {row['avg_tone']} |")
+        add("")
+    add("## Endorsement primary (Tier 1, armed)")
+    add("")
+    if record.get("endorsements"):
+        add("FiveThirtyEight weighting (governor 10, senator 5, representative 1):")
+        add("")
+        add("| Candidate | Points | Endorsements |")
+        add("|---|---|---|")
+        for row in record["endorsements"]:
+            add(f"| {row['candidate']} | {row['points']} | {row['endorsements']} |")
+    else:
+        add("No formal 2028 endorsements recorded yet — expected, since no candidate "
+            "has declared. The tracker (`data/reference/endorsements.csv`) reports "
+            "here automatically once rows are added; historically the 'endorsement "
+            "primary' is the strongest early nomination predictor.")
+    add("")
     add("## Exit scenarios (speculative)")
     add("")
     add("Mark-to-market exits assuming the nominee-contract price converges a fraction "

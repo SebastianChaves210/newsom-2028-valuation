@@ -21,7 +21,7 @@
       "p5": 0.102648253210765,
       "p10": 0.10998097270693015,
       "p25": 0.12489365855633427,
-      "median": 0.15560306104226465,
+      "median": 0.15560306104226468,
       "p75": 0.2644914508331613,
       "p90": 0.3701486855937763,
       "p95": 0.41709466296377606
@@ -38,8 +38,8 @@
     },
     "president": {
       "mean": 0.1152306810511963,
-      "p5": 0.04905083717765825,
-      "p10": 0.05516889688847401,
+      "p5": 0.04905083717765827,
+      "p10": 0.055168896888474005,
       "p25": 0.06732521099339436,
       "median": 0.09229087462426333,
       "p75": 0.14716824601938927,
@@ -50,7 +50,7 @@
   "lanes": {
     "base_rate": {
       "mean": 0.35127806213273943,
-      "p5": 0.2287078165677065,
+      "p5": 0.22870781656770645,
       "p10": 0.25327105530195554,
       "p25": 0.29681144609372456,
       "median": 0.34856622034238394,
@@ -64,7 +64,7 @@
       "mean": 0.20622032540397586,
       "p5": 0.1271234994850436,
       "p10": 0.14238059428465846,
-      "p25": 0.1695828450609086,
+      "p25": 0.16958284506090862,
       "median": 0.20287334211509328,
       "p75": 0.239201448389083,
       "p90": 0.27437846230606816,
@@ -73,13 +73,6 @@
       "effective_n": 58.490416399046914,
       "top_analogs": [
         {
-          "cycle": 2016,
-          "party": "R",
-          "candidate": "Scott Walker",
-          "weight": 1.0,
-          "won_nomination": 0
-        },
-        {
           "cycle": 2024,
           "party": "R",
           "candidate": "Ron DeSantis",
@@ -87,9 +80,16 @@
           "won_nomination": 0
         },
         {
-          "cycle": 2000,
+          "cycle": 2016,
           "party": "R",
-          "candidate": "George W. Bush",
+          "candidate": "Scott Walker",
+          "weight": 1.0,
+          "won_nomination": 0
+        },
+        {
+          "cycle": 1988,
+          "party": "D",
+          "candidate": "Michael Dukakis",
           "weight": 0.8007374029168081,
           "won_nomination": 1
         },
@@ -101,46 +101,11 @@
           "won_nomination": 0
         },
         {
-          "cycle": 1988,
-          "party": "D",
-          "candidate": "Michael Dukakis",
+          "cycle": 2000,
+          "party": "R",
+          "candidate": "George W. Bush",
           "weight": 0.8007374029168081,
           "won_nomination": 1
-        },
-        {
-          "cycle": 2000,
-          "party": "D",
-          "candidate": "Bill Bradley",
-          "weight": 0.55,
-          "won_nomination": 0
-        },
-        {
-          "cycle": 1996,
-          "party": "R",
-          "candidate": "Phil Gramm",
-          "weight": 0.55,
-          "won_nomination": 0
-        },
-        {
-          "cycle": 2012,
-          "party": "R",
-          "candidate": "Newt Gingrich",
-          "weight": 0.55,
-          "won_nomination": 0
-        },
-        {
-          "cycle": 2008,
-          "party": "D",
-          "candidate": "Barack Obama",
-          "weight": 0.55,
-          "won_nomination": 1
-        },
-        {
-          "cycle": 2016,
-          "party": "D",
-          "candidate": "Bernie Sanders",
-          "weight": 0.55,
-          "won_nomination": 0
         },
         {
           "cycle": 2004,
@@ -155,14 +120,49 @@
           "candidate": "Bob Kerrey",
           "weight": 0.55,
           "won_nomination": 0
+        },
+        {
+          "cycle": 1984,
+          "party": "D",
+          "candidate": "John Glenn",
+          "weight": 0.55,
+          "won_nomination": 0
+        },
+        {
+          "cycle": 1996,
+          "party": "R",
+          "candidate": "Phil Gramm",
+          "weight": 0.55,
+          "won_nomination": 0
+        },
+        {
+          "cycle": 2000,
+          "party": "D",
+          "candidate": "Bill Bradley",
+          "weight": 0.55,
+          "won_nomination": 0
+        },
+        {
+          "cycle": 1980,
+          "party": "R",
+          "candidate": "Howard Baker",
+          "weight": 0.55,
+          "won_nomination": 0
+        },
+        {
+          "cycle": 2008,
+          "party": "D",
+          "candidate": "Barack Obama",
+          "weight": 0.55,
+          "won_nomination": 1
         }
       ]
     },
     "market_structure": {
       "mean": 0.12726011220449351,
-      "p5": 0.09741689324746315,
+      "p5": 0.09741689324746318,
       "p10": 0.10318276151876575,
-      "p25": 0.11344163903330301,
+      "p25": 0.11344163903330298,
       "median": 0.1259576398530729,
       "p75": 0.13964066419509386,
       "p90": 0.15305887305593666,
@@ -177,7 +177,7 @@
       "median": 0.6276876370192351,
       "p75": 0.7380788139587445,
       "p90": 0.8270545967330944,
-      "p95": 0.8766722380121091,
+      "p95": 0.8766722380121093,
       "raw_base_rate": 0.875,
       "shrunk_base_rate": 0.6875
     },
@@ -196,13 +196,13 @@
     "nominee": {
       "label": "Democratic nomination",
       "market_price": 0.1565,
-      "fair_median": 0.15560306104226465,
+      "fair_median": 0.15560306104226468,
       "fair_p10": 0.10998097270693015,
       "fair_p90": 0.3701486855937763,
       "years_to_resolution": 2.0342231348391513,
       "risk_free": 0.04190000000000001,
       "npv_per_dollar_of_price": 0.12997534432953914,
-      "npv_median": -0.02336165309572725,
+      "npv_median": -0.023361653095727235,
       "npv_p10": -0.06532914565595872,
       "kelly_fraction": 0.04392509195293047,
       "verdict": "FAIR",
@@ -212,7 +212,7 @@
       "label": "Presidency",
       "market_price": 0.0805,
       "fair_median": 0.09229087462426333,
-      "fair_p10": 0.05516889688847401,
+      "fair_p10": 0.055168896888474005,
       "fair_p90": 0.21072521869429278,
       "years_to_resolution": 2.223134839151266,
       "risk_free": 0.04190000000000001,
@@ -262,9 +262,9 @@
     },
     {
       "candidate": "Alexandria Ocasio-Cortez",
-      "nominee_price": 0.1955,
+      "nominee_price": 0.196,
       "president_price": 0.1285,
-      "implied_conditional": 0.6572890025575447
+      "implied_conditional": 0.6556122448979592
     },
     {
       "candidate": "Gavin Newsom",
@@ -323,8 +323,8 @@
     {
       "candidate": "Donald Trump",
       "nominee_price": 0.0225,
-      "president_price": 0.0265,
-      "implied_conditional": 1.1777777777777778
+      "president_price": 0.0305,
+      "implied_conditional": 1.3555555555555556
     },
     {
       "candidate": "Ro Khanna",
@@ -337,8 +337,118 @@
       "nominee_price": 0.0215,
       "president_price": 0.0065,
       "implied_conditional": 0.3023255813953489
+    },
+    {
+      "candidate": "Wes Moore",
+      "nominee_price": 0.021,
+      "president_price": 0.0085,
+      "implied_conditional": 0.40476190476190477
     }
   ],
+  "venues": [
+    {
+      "candidate": "Alexandria Ocasio-Cortez",
+      "polymarket": 0.196,
+      "kalshi": null,
+      "manifold": 0.18,
+      "spread": 0.016
+    },
+    {
+      "candidate": "Gavin Newsom",
+      "polymarket": 0.1565,
+      "kalshi": null,
+      "manifold": 0.187,
+      "spread": 0.0305
+    },
+    {
+      "candidate": "Jon Ossoff",
+      "polymarket": 0.1375,
+      "kalshi": null,
+      "manifold": 0.1417,
+      "spread": 0.0042
+    },
+    {
+      "candidate": "Kamala Harris",
+      "polymarket": 0.0755,
+      "kalshi": null,
+      "manifold": 0.0554,
+      "spread": 0.0201
+    },
+    {
+      "candidate": "Pete Buttigieg",
+      "polymarket": 0.0525,
+      "kalshi": null,
+      "manifold": 0.0356,
+      "spread": 0.0169
+    },
+    {
+      "candidate": "Josh Shapiro",
+      "polymarket": 0.0505,
+      "kalshi": null,
+      "manifold": 0.04,
+      "spread": 0.0105
+    },
+    {
+      "candidate": "Mark Kelly",
+      "polymarket": 0.029,
+      "kalshi": null,
+      "manifold": 0.051,
+      "spread": 0.022
+    },
+    {
+      "candidate": "Rahm Emanuel",
+      "polymarket": 0.0235,
+      "kalshi": null,
+      "manifold": null,
+      "spread": 0.0
+    },
+    {
+      "candidate": "Andy Beshear",
+      "polymarket": 0.0225,
+      "kalshi": null,
+      "manifold": 0.0201,
+      "spread": 0.0024
+    },
+    {
+      "candidate": "Ro Khanna",
+      "polymarket": 0.0225,
+      "kalshi": null,
+      "manifold": null,
+      "spread": 0.0
+    },
+    {
+      "candidate": "James Talarico",
+      "polymarket": 0.0215,
+      "kalshi": null,
+      "manifold": null,
+      "spread": 0.0
+    },
+    {
+      "candidate": "Wes Moore",
+      "polymarket": 0.021,
+      "kalshi": null,
+      "manifold": null,
+      "spread": 0.0
+    }
+  ],
+  "gdelt": [
+    {
+      "candidate": "Jon Ossoff",
+      "avg_tone": NaN,
+      "avg_volume": 0.1191
+    },
+    {
+      "candidate": "Gavin Newsom",
+      "avg_tone": -0.89,
+      "avg_volume": 0.0602
+    },
+    {
+      "candidate": "Alexandria Ocasio-Cortez",
+      "avg_tone": NaN,
+      "avg_volume": 0.0336
+    }
+  ],
+  "endorsements": [],
   "gate": {
     "edge_ratio": 1.5,
     "gate_percentile": 10,

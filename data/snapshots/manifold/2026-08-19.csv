@@ -1,0 +1,18 @@
+pulled_at,contest,question,slug,candidate,probability,liquidity
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Kamala Harris,0.05536491430460651,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Gretchen Whitmer,0.005184183226338864,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Gavin Newsom,0.18699857625817587,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Pete Buttigieg,0.03559898256856543,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Josh Shapiro,0.04000000000000002,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Andy Beshear,0.020107528710283273,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Alexandria Ocasio-Cortez,0.17999999999999994,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Jon Ossoff,0.14168506519699106,32000
+2026-08-19T04:47:41.830205+00:00,dem_nominee,2028 Democratic nominee?,2028-democratic-nominee,Mark Kelly,0.05101387909513486,32000
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Gavin Newsom,0.12222476277634899,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Kamala Harris,0.03253656588076824,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Gretchen Whitmer,0.011393855328275023,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Pete Buttigieg,0.027126867815841994,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Alexandria Ocasio-Cortez,0.08860140183850194,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Josh Shapiro,0.03227291552940472,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Andy Beshear,0.009658810389808207,2795
+2026-08-19T04:47:41.830205+00:00,president,Who will win the 2028 US presidential election?,who-will-win-the-2028-us-presidenti,Marco Rubio,0.11642183084497627,2795

@@ -157,6 +157,56 @@ def _fig_verdict_history() -> go.Figure | None:
     return fig
 
 
+def _fig_venues(record: dict) -> go.Figure | None:
+    rows = record.get("venues") or []
+    if not rows:
+        return None
+    venue_names = [k for k in rows[0] if k not in ("candidate", "spread")]
+    palette = {"polymarket": "#1f6feb", "kalshi": "#1a7f37",
+               "manifold": "#8250df", "metaculus": "#9a6700"}
+    fig = go.Figure()
+    for venue in venue_names:
+        fig.add_trace(
+            go.Bar(
+                x=[r["candidate"] for r in rows],
+                y=[100 * r[venue] if r.get(venue) is not None else None for r in rows],
+                name=venue.title(), marker_color=palette.get(venue),
+            )
+        )
+    fig.update_layout(
+        title="Cross-venue consensus — Democratic nomination "
+              "(real money, regulated, play money, forecasters)",
+        yaxis_title="Probability (%)", barmode="group", **LAYOUT,
+    )
+    return fig
+
+
+def _fig_news_tone() -> go.Figure | None:
+    path = config.PROCESSED_DIR / "gdelt.csv"
+    if not path.exists():
+        return None
+    frame = pd.read_csv(path, parse_dates=["date"])
+    if "tone" not in frame.columns:
+        return None
+    fig = go.Figure()
+    for candidate, group in frame.groupby("candidate"):
+        group = group.sort_values("date")
+        smooth = group["tone"].rolling(7, min_periods=1).mean()
+        fig.add_trace(go.Scatter(
+            x=group["date"], y=smooth, mode="lines", name=candidate,
+            line=dict(color=CANDIDATE_COLORS.get(candidate),
+                      width=3 if candidate == config.SUBJECT else 1.2),
+        ))
+    fig.add_hline(y=0, line_dash="dot", line_color="#57606a",
+                  annotation_text="neutral")
+    fig.update_layout(
+        title="News coverage tone, 7-day average — GDELT "
+              "(Tier 3 — excluded from fair value)",
+        yaxis_title="Average tone", **LAYOUT,
+    )
+    return fig
+
+
 def _fig_attention() -> go.Figure | None:
     path = config.PROCESSED_DIR / "wikipedia_views.csv"
     if not path.exists():
@@ -212,7 +262,9 @@ def build(record: dict) -> None:
         _fig_price_history(),
         _fig_posteriors(),
         _fig_conditionals(record),
+        _fig_venues(record),
         _fig_verdict_history(),
+        _fig_news_tone(),
         _fig_attention(),
     ]
     parts = [header]
