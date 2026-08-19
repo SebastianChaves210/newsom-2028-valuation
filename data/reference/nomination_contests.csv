@@ -1,0 +1,119 @@
+cycle,party,candidate,ran,early_poll_rank,sitting_governor,former_governor,sitting_vp,prior_nominee,prior_run,won_nomination,won_general,notes
+1972,D,Edmund Muskie,1,1,0,0,0,0,0,0,0,early front-runner; collapsed in primaries
+1972,D,Hubert Humphrey,1,2,0,0,0,1,1,0,0,1968 nominee
+1972,D,George Wallace,1,3,0,1,0,0,1,0,0,campaign ended by assassination attempt
+1972,D,Henry Jackson,1,4,0,0,0,0,0,0,0,
+1972,D,George McGovern,1,5,0,0,0,0,1,1,0,longshot winner
+1972,D,John Lindsay,1,6,0,0,0,0,0,0,0,
+1976,D,George Wallace,1,1,1,0,0,0,1,0,0,led announced field in early 1975
+1976,D,Henry Jackson,1,2,0,0,0,0,1,0,0,
+1976,D,Morris Udall,1,3,0,0,0,0,0,0,0,
+1976,D,Birch Bayh,1,4,0,0,0,0,0,0,0,
+1976,D,Sargent Shriver,1,5,0,0,0,0,0,0,0,1972 VP nominee
+1976,D,Jimmy Carter,1,6,0,1,0,0,0,1,1,~1% in early national polls; won via early states
+1980,R,Ronald Reagan,1,1,0,1,0,0,1,1,1,front-runner who converted
+1980,R,Howard Baker,1,2,0,0,0,0,0,0,0,
+1980,R,John Connally,1,3,0,1,0,0,0,0,0,
+1980,R,George H.W. Bush,1,4,0,0,0,0,0,0,0,
+1980,R,Bob Dole,1,5,0,0,0,0,0,0,0,
+1980,R,John Anderson,1,6,0,0,0,0,0,0,0,
+1984,D,Walter Mondale,1,1,0,0,0,0,1,1,0,former VP; front-runner who converted
+1984,D,John Glenn,1,2,0,0,0,0,0,0,0,
+1984,D,Jesse Jackson,1,3,0,0,0,0,0,0,0,
+1984,D,Alan Cranston,1,4,0,0,0,0,0,0,0,
+1984,D,Gary Hart,1,5,0,0,0,0,0,0,0,surged late; nearly won
+1984,D,Ernest Hollings,1,6,0,0,0,0,0,0,0,
+1988,D,Gary Hart,1,1,0,0,0,0,1,0,0,front-runner; withdrew in scandal
+1988,D,Jesse Jackson,1,2,0,0,0,0,1,0,0,
+1988,D,Michael Dukakis,1,3,1,0,0,0,0,1,0,sitting MA governor
+1988,D,Richard Gephardt,1,4,0,0,0,0,0,0,0,
+1988,D,Paul Simon,1,5,0,0,0,0,0,0,0,
+1988,D,Al Gore,1,6,0,0,0,0,0,0,0,
+1988,D,Joe Biden,1,7,0,0,0,0,0,0,0,withdrew 1987
+1988,R,George H.W. Bush,1,1,0,0,1,0,1,1,1,sitting VP; front-runner who converted
+1988,R,Bob Dole,1,2,0,0,0,0,1,0,0,
+1988,R,Jack Kemp,1,3,0,0,0,0,0,0,0,
+1988,R,Pat Robertson,1,4,0,0,0,0,0,0,0,
+1988,R,Alexander Haig,1,5,0,0,0,0,0,0,0,
+1988,R,Pete du Pont,1,6,0,1,0,0,0,0,0,
+1992,D,Jerry Brown,1,1,0,1,0,0,1,0,0,best-known among eventual runners (Cuomo did not run)
+1992,D,Bob Kerrey,1,2,0,0,0,0,0,0,0,
+1992,D,Tom Harkin,1,3,0,0,0,0,0,0,0,
+1992,D,Bill Clinton,1,4,1,0,0,0,0,1,1,sitting AR governor; mid-pack in mid-1991
+1992,D,Paul Tsongas,1,5,0,0,0,0,0,0,0,
+1992,D,Douglas Wilder,1,6,1,0,0,0,0,0,0,sitting VA governor; withdrew early
+1996,R,Bob Dole,1,1,0,0,0,0,1,1,0,front-runner who converted
+1996,R,Phil Gramm,1,2,0,0,0,0,0,0,0,
+1996,R,Pat Buchanan,1,3,0,0,0,0,1,0,0,
+1996,R,Lamar Alexander,1,4,0,1,0,0,0,0,0,
+1996,R,Richard Lugar,1,5,0,0,0,0,0,0,0,
+1996,R,Pete Wilson,1,6,1,0,0,0,0,0,0,sitting CA governor; withdrew before primaries
+1996,R,Steve Forbes,1,7,0,0,0,0,0,0,0,
+2000,D,Al Gore,1,1,0,0,1,0,1,1,0,sitting VP; won popular vote lost EC
+2000,D,Bill Bradley,1,2,0,0,0,0,0,0,0,
+2000,R,George W. Bush,1,1,1,0,0,0,0,1,1,sitting TX governor; dominant early leader
+2000,R,Steve Forbes,1,2,0,0,0,0,1,0,0,
+2000,R,John McCain,1,3,0,0,0,0,0,0,0,
+2000,R,Gary Bauer,1,4,0,0,0,0,0,0,0,
+2000,R,Alan Keyes,1,5,0,0,0,0,1,0,0,
+2000,R,Orrin Hatch,1,6,0,0,0,0,0,0,0,
+2004,D,Joe Lieberman,1,1,0,0,0,0,0,0,0,early poll leader (2000 VP nominee); collapsed
+2004,D,John Kerry,1,2,0,0,0,0,0,1,0,
+2004,D,Richard Gephardt,1,3,0,0,0,0,1,0,0,
+2004,D,John Edwards,1,4,0,0,0,0,0,0,0,
+2004,D,Howard Dean,1,5,0,1,0,0,0,0,0,surged mid-2003 then collapsed
+2004,D,Bob Graham,1,6,0,1,0,0,0,0,0,
+2008,D,Hillary Clinton,1,1,0,0,0,0,0,0,0,dominant early front-runner; lost nomination
+2008,D,Barack Obama,1,2,0,0,0,0,0,1,1,
+2008,D,John Edwards,1,3,0,0,0,0,1,0,0,2004 VP nominee
+2008,D,Joe Biden,1,4,0,0,0,0,1,0,0,
+2008,D,Bill Richardson,1,5,1,0,0,0,0,0,0,sitting NM governor
+2008,D,Chris Dodd,1,6,0,0,0,0,0,0,0,
+2008,R,Rudy Giuliani,1,1,0,0,0,0,0,0,0,early poll leader; collapsed
+2008,R,John McCain,1,2,0,0,0,0,1,1,0,
+2008,R,Mitt Romney,1,3,0,1,0,0,0,0,0,former MA governor
+2008,R,Fred Thompson,1,4,0,0,0,0,0,0,0,
+2008,R,Mike Huckabee,1,5,0,1,0,0,0,0,0,former AR governor
+2008,R,Ron Paul,1,6,0,0,0,0,1,0,0,
+2012,R,Mitt Romney,1,1,0,1,0,0,1,1,0,front-runner who converted
+2012,R,Newt Gingrich,1,2,0,0,0,0,0,0,0,
+2012,R,Rick Perry,1,3,1,0,0,0,0,0,0,sitting TX governor; high early standing after entry
+2012,R,Michele Bachmann,1,4,0,0,0,0,0,0,0,
+2012,R,Ron Paul,1,5,0,0,0,0,1,0,0,
+2012,R,Tim Pawlenty,1,6,0,1,0,0,0,0,0,former MN governor
+2012,R,Rick Santorum,1,7,0,0,0,0,0,0,0,near-winner from low early standing
+2016,D,Hillary Clinton,1,1,0,0,0,0,1,1,0,dominant early front-runner; converted
+2016,D,Bernie Sanders,1,2,0,0,0,0,0,0,0,
+2016,D,Martin O'Malley,1,3,0,1,0,0,0,0,0,former MD governor
+2016,D,Jim Webb,1,4,0,0,0,0,0,0,0,
+2016,D,Lincoln Chafee,1,5,0,1,0,0,0,0,0,former RI governor
+2016,R,Jeb Bush,1,1,0,1,0,0,0,0,0,early poll/money leader; collapsed
+2016,R,Scott Walker,1,2,1,0,0,0,0,0,0,sitting WI governor; top-2 early; collapsed
+2016,R,Marco Rubio,1,3,0,0,0,0,0,0,0,
+2016,R,Rand Paul,1,4,0,0,0,0,0,0,0,
+2016,R,Ben Carson,1,5,0,0,0,0,0,0,0,
+2016,R,Mike Huckabee,1,6,0,1,0,0,1,0,0,
+2016,R,Ted Cruz,1,7,0,0,0,0,0,0,0,
+2016,R,Chris Christie,1,8,1,0,0,0,0,0,0,sitting NJ governor
+2016,R,Donald Trump,1,9,0,0,0,0,0,1,1,not in early-2015 polls; led after June 2015 entry
+2016,R,John Kasich,1,10,1,0,0,0,1,0,0,sitting OH governor
+2020,D,Joe Biden,1,1,0,0,0,0,1,1,1,former VP; front-runner who converted
+2020,D,Bernie Sanders,1,2,0,0,0,0,1,0,0,
+2020,D,Elizabeth Warren,1,3,0,0,0,0,0,0,0,
+2020,D,Kamala Harris,1,4,0,0,0,0,0,0,0,
+2020,D,Beto O'Rourke,1,5,0,0,0,0,0,0,0,
+2020,D,Cory Booker,1,6,0,0,0,0,0,0,0,
+2020,D,Amy Klobuchar,1,7,0,0,0,0,0,0,0,
+2020,D,Pete Buttigieg,1,8,0,0,0,0,0,0,0,
+2020,D,Jay Inslee,1,9,1,0,0,0,0,0,0,sitting WA governor
+2020,D,John Hickenlooper,1,10,0,1,0,0,0,0,0,former CO governor
+2020,D,Steve Bullock,1,11,1,0,0,0,0,0,0,sitting MT governor
+2024,R,Donald Trump,1,1,0,0,0,1,1,1,1,prior nominee/president; quasi-incumbent - flagged in sensitivity analysis
+2024,R,Ron DeSantis,1,2,1,0,0,0,0,0,0,sitting FL governor; top-2 early; collapsed
+2024,R,Mike Pence,1,3,0,0,0,0,0,0,0,former VP
+2024,R,Nikki Haley,1,4,0,1,0,0,0,0,0,former SC governor
+2024,R,Tim Scott,1,5,0,0,0,0,0,0,0,
+2024,R,Chris Christie,1,6,0,1,0,0,1,0,0,
+2024,R,Vivek Ramaswamy,1,7,0,0,0,0,0,0,0,
+2024,R,Doug Burgum,1,8,1,0,0,0,0,0,0,sitting ND governor
+2024,R,Asa Hutchinson,1,9,0,1,0,0,0,0,0,former AR governor

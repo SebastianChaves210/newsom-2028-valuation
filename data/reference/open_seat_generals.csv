@@ -1,0 +1,9 @@
+year,incumbent_party,winner_party,out_party_won,notes
+1952,D,R,1,Truman retired; Eisenhower defeated Stevenson
+1960,R,D,1,Eisenhower term-limited; Kennedy defeated Nixon (sitting VP)
+1968,D,R,1,Johnson withdrew; Nixon defeated Humphrey (sitting VP)
+1988,R,R,0,Reagan term-limited; Bush (sitting VP) held the seat
+2000,D,R,1,Clinton term-limited; Bush beat Gore (sitting VP) in EC while losing popular vote
+2008,R,D,1,Bush term-limited; Obama defeated McCain
+2016,D,R,1,Obama term-limited; Trump defeated Clinton
+2024,D,R,1,quasi-open: Biden withdrew July 2024; Trump defeated Harris (sitting VP) - flagged in sensitivity analysis
