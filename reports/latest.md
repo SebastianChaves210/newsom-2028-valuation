@@ -38,16 +38,16 @@ Decision rule (pre-registered): BUY requires median fair value ≥ 1.5× price *
 
 | Cycle | Candidate | Similarity | Won nomination |
 |---|---|---|---|
-| 2024 R | Ron DeSantis | 1.00 | ✘ |
 | 2016 R | Scott Walker | 1.00 | ✘ |
-| 1988 D | Michael Dukakis | 0.80 | ✔ |
-| 2012 R | Rick Perry | 0.80 | ✘ |
+| 2024 R | Ron DeSantis | 1.00 | ✘ |
 | 2000 R | George W. Bush | 0.80 | ✔ |
-| 2004 D | John Kerry | 0.55 | ✔ |
-| 1992 D | Bob Kerrey | 0.55 | ✘ |
-| 1984 D | John Glenn | 0.55 | ✘ |
-| 1996 R | Phil Gramm | 0.55 | ✘ |
+| 2012 R | Rick Perry | 0.80 | ✘ |
+| 1988 D | Michael Dukakis | 0.80 | ✔ |
 | 2000 D | Bill Bradley | 0.55 | ✘ |
+| 1996 R | Phil Gramm | 0.55 | ✘ |
+| 2012 R | Newt Gingrich | 0.55 | ✘ |
+| 2008 D | Barack Obama | 0.55 | ✔ |
+| 2016 D | Bernie Sanders | 0.55 | ✘ |
 
 ## Cross-candidate conditional anomaly
 
@@ -66,8 +66,8 @@ Market-implied P(wins general | nominated) — presidency price ÷ nominee price
 | Ron DeSantis | 2.9¢ | 1.5¢ | 50.9% |
 | Tucker Carlson | 2.6¢ | 1.6¢ | 58.5% |
 | Andy Beshear | 2.2¢ | 1.1¢ | 46.7% |
-| Donald Trump | 2.2¢ | 3.0¢ | 135.6% |
 | Ro Khanna | 2.2¢ | 0.9¢ | 42.2% |
+| Donald Trump | 2.2¢ | 3.0¢ | 135.6% |
 | James Talarico | 2.1¢ | 0.7¢ | 30.2% |
 | Wes Moore | 2.1¢ | 0.9¢ | 40.5% |
 
@@ -85,8 +85,8 @@ The same question priced by four different crowds. `spread` = max − min; a lar
 | Josh Shapiro | 5.1% | — | 4.0% | 1.1% |
 | Mark Kelly | 2.9% | — | 5.1% | 2.2% |
 | Rahm Emanuel | 2.4% | — | — | 0.0% |
-| Andy Beshear | 2.2% | — | 2.0% | 0.2% |
 | Ro Khanna | 2.2% | — | — | 0.0% |
+| Andy Beshear | 2.2% | — | 2.0% | 0.2% |
 | James Talarico | 2.1% | — | — | 0.0% |
 | Wes Moore | 2.1% | — | — | 0.0% |
 
@@ -96,9 +96,10 @@ GDELT worldwide news monitoring. Volume = share of all monitored articles; tone 
 
 | Candidate | Coverage volume | Avg tone |
 |---|---|---|
-| Jon Ossoff | 0.1191 | nan |
-| Gavin Newsom | 0.0602 | -0.89 |
-| Alexandria Ocasio-Cortez | 0.0336 | nan |
+| Gavin Newsom | 0.0503 | -1.68 |
+| Alexandria Ocasio-Cortez | 0.0476 | -0.75 |
+| JD Vance | nan | -2.28 |
+| Pete Buttigieg | nan | -0.4 |
 
 ## Endorsement primary (Tier 1, armed)
 
