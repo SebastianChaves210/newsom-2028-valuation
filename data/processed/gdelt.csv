@@ -1,6 +1,4 @@
 date,candidate,volume
-2026-03-29,Gavin Newsom,0.0526
-2026-03-29,Pete Buttigieg,0.0018
 2026-03-30,Gavin Newsom,0.1027
 2026-03-30,Pete Buttigieg,0.0195
 2026-03-31,Gavin Newsom,0.1508
@@ -341,3 +339,5 @@ date,candidate,volume
 2026-09-24,Pete Buttigieg,0.0032
 2026-09-25,Gavin Newsom,0.085
 2026-09-25,Pete Buttigieg,0.0034
+2026-09-27,Gavin Newsom,0.048
+2026-09-27,Pete Buttigieg,0.0063
