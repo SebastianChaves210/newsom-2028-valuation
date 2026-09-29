@@ -1,51 +1,51 @@
 {
-  "as_of": "2026-09-28",
+  "as_of": "2026-09-29",
   "prices": {
-    "nominee": 0.1735,
-    "president": 0.075
+    "nominee": 0.168,
+    "president": 0.0765
   },
   "early_rank": 2,
   "poll_means": {
-    "Harris": 26.790298507462687,
-    "Newsom": 15.979850746268658,
-    "Buttigieg": 10.970542635658916,
-    "Ocasio-Cortez": 8.724427480916031,
-    "Kelly": 5.719565217391305,
-    "Shapiro": 5.2296000000000005,
-    "Ossoff": 5.074285714285714,
-    "Beshear": 3.0170731707317073
+    "Harris": 26.827272727272724,
+    "Newsom": 15.995454545454546,
+    "Buttigieg": 10.958267716535433,
+    "Ocasio-Cortez": 8.712403100775195,
+    "Kelly": 5.7444444444444445,
+    "Shapiro": 5.2162601626016265,
+    "Ossoff": 4.993939393939394,
+    "Beshear": 3.017948717948718
   },
-  "risk_free": 0.0487,
+  "risk_free": 0.0481,
   "summary": {
     "nominee": {
-      "mean": 0.2112923541968919,
-      "p5": 0.11720998565432926,
-      "p10": 0.12489263798088558,
-      "p25": 0.14015732659881946,
-      "median": 0.1678347591377553,
+      "mean": 0.20862712353540375,
+      "p5": 0.11251327263412877,
+      "p10": 0.12008830869506201,
+      "p25": 0.1352721691180162,
+      "median": 0.16381583257938737,
       "p75": 0.2644914508331613,
       "p90": 0.3701486855937763,
       "p95": 0.41709466296377606
     },
     "conditional": {
-      "mean": 0.5264446648600705,
-      "p5": 0.35552869712980284,
-      "p10": 0.3810676577861783,
-      "p25": 0.419082964498362,
-      "median": 0.47097645901264995,
-      "p75": 0.6292065271337589,
+      "mean": 0.537946346167295,
+      "p5": 0.36847964052007226,
+      "p10": 0.3976774820060372,
+      "p25": 0.43875862487156553,
+      "median": 0.4910192102793277,
+      "p75": 0.6292345423567146,
       "p90": 0.7644041288197407,
       "p95": 0.8275274026490445
     },
     "president": {
-      "mean": 0.11123309359954285,
-      "p5": 0.04915152462675054,
-      "p10": 0.05451481183652491,
-      "p25": 0.06621607096166988,
-      "median": 0.09255279539850059,
-      "p75": 0.1372864035818254,
-      "p90": 0.19535020266948097,
-      "p95": 0.24015214704897397
+      "mean": 0.11222799228757444,
+      "p5": 0.0491754330186501,
+      "p10": 0.054770604218542525,
+      "p25": 0.066618193362527,
+      "median": 0.0923714506700507,
+      "p75": 0.13962498357968928,
+      "p90": 0.19959010904116178,
+      "p95": 0.2420608202753606
     }
   },
   "lanes": {
@@ -160,15 +160,15 @@
       ]
     },
     "market_structure": {
-      "mean": 0.14364331801169683,
-      "p5": 0.1125300632169282,
-      "p10": 0.11865881348881695,
-      "p25": 0.1294218066410195,
-      "median": 0.14244331060815296,
-      "p75": 0.15652324321798108,
-      "p90": 0.17026524742320104,
-      "p95": 0.1787825578600706,
-      "market_price": 0.1735
+      "mean": 0.1383058030247023,
+      "p5": 0.10756416339940056,
+      "p10": 0.1135958642231777,
+      "p25": 0.12419792200193427,
+      "median": 0.1370753414705176,
+      "p75": 0.1510362312456524,
+      "p90": 0.16469721675560756,
+      "p95": 0.1731806869460409,
+      "market_price": 0.168
     },
     "fundamentals": {
       "mean": 0.6196549374341415,
@@ -183,46 +183,46 @@
       "shrunk_base_rate": 0.6875
     },
     "market_implied_conditional": {
-      "mean": 0.43229122512390256,
-      "p5": 0.3613742920984306,
-      "p10": 0.37695298706523617,
-      "p25": 0.40321718919391725,
-      "median": 0.4322732521070827,
-      "p75": 0.4614954184542517,
-      "p90": 0.4875145222128851,
-      "p95": 0.5032197236453957
+      "mean": 0.45537248875105374,
+      "p5": 0.38066909805154314,
+      "p10": 0.3970795840531835,
+      "p25": 0.42474610697409243,
+      "median": 0.45535355610351436,
+      "p75": 0.48613597740386255,
+      "p90": 0.5135443154524658,
+      "p95": 0.5300880624614622
     }
   },
   "contracts": {
     "nominee": {
       "label": "Democratic nomination",
-      "market_price": 0.1735,
-      "fair_median": 0.1678347591377553,
-      "fair_p10": 0.12489263798088558,
+      "market_price": 0.168,
+      "fair_median": 0.16381583257938737,
+      "fair_p10": 0.12008830869506201,
       "fair_p90": 0.3701486855937763,
-      "years_to_resolution": 1.9247091033538672,
-      "risk_free": 0.0487,
-      "npv_per_dollar_of_price": 0.053676687250714485,
-      "npv_median": -0.030343925648558014,
-      "npv_p10": -0.06953036554038057,
-      "kelly_fraction": 0.03403840073103726,
+      "years_to_resolution": 1.9219712525667352,
+      "risk_free": 0.0481,
+      "npv_per_dollar_of_price": 0.07508994822812498,
+      "npv_median": -0.028327356141187497,
+      "npv_p10": -0.06827962452766742,
+      "kelly_fraction": 0.03725927437397049,
       "verdict": "FAIR",
-      "gate_detail": "median/price = 0.97x (gate 1.5x: FAIL); p10 NPV = -0.070 (FAIL)"
+      "gate_detail": "median/price = 0.98x (gate 1.5x: FAIL); p10 NPV = -0.068 (FAIL)"
     },
     "president": {
       "label": "Presidency",
-      "market_price": 0.075,
-      "fair_median": 0.09255279539850059,
-      "fair_p10": 0.05451481183652491,
-      "fair_p90": 0.19535020266948097,
-      "years_to_resolution": 2.113620807665982,
-      "risk_free": 0.0487,
-      "npv_per_dollar_of_price": 0.20796011356324798,
-      "npv_median": -0.0012970834874277744,
-      "npv_p10": -0.035697883038493805,
-      "kelly_fraction": 0.028670047649773614,
+      "market_price": 0.0765,
+      "fair_median": 0.0923714506700507,
+      "fair_p10": 0.054770604218542525,
+      "fair_p90": 0.19959010904116178,
+      "years_to_resolution": 2.11088295687885,
+      "risk_free": 0.0481,
+      "npv_per_dollar_of_price": 0.19781299337159572,
+      "npv_median": -0.0028492174432186487,
+      "npv_p10": -0.03690021705024159,
+      "kelly_fraction": 0.028164195169758554,
       "verdict": "FAIR",
-      "gate_detail": "median/price = 1.23x (gate 1.5x: FAIL); p10 NPV = -0.036 (FAIL)"
+      "gate_detail": "median/price = 1.21x (gate 1.5x: FAIL); p10 NPV = -0.037 (FAIL)"
     }
   },
   "scenarios": [
@@ -230,27 +230,27 @@
       "milestone": "Candidacy announcement window",
       "date": "2027-06-30",
       "convergence_kappa": 0.25,
-      "assumed_exit_price": 0.1721,
+      "assumed_exit_price": 0.167,
       "return_pct": -6.6,
-      "annualized_pct": -8.6,
+      "annualized_pct": -8.7,
       "beats_carry": false
     },
     {
       "milestone": "Post early states (IA/NH/SC)",
       "date": "2028-02-15",
       "convergence_kappa": 0.5,
-      "assumed_exit_price": 0.1707,
-      "return_pct": -7.4,
-      "annualized_pct": -5.4,
+      "assumed_exit_price": 0.1659,
+      "return_pct": -7.2,
+      "annualized_pct": -5.3,
       "beats_carry": false
     },
     {
       "milestone": "Post Super Tuesday",
       "date": "2028-03-15",
       "convergence_kappa": 0.75,
-      "assumed_exit_price": 0.1693,
-      "return_pct": -8.2,
-      "annualized_pct": -5.7,
+      "assumed_exit_price": 0.1649,
+      "return_pct": -7.8,
+      "annualized_pct": -5.4,
       "beats_carry": false
     }
   ],
@@ -263,21 +263,21 @@
     },
     {
       "candidate": "Gavin Newsom",
-      "nominee_price": 0.1735,
-      "president_price": 0.075,
-      "implied_conditional": 0.43227665706051877
-    },
-    {
-      "candidate": "Marco Rubio",
-      "nominee_price": 0.1565,
-      "president_price": 0.0875,
-      "implied_conditional": 0.5591054313099041
+      "nominee_price": 0.168,
+      "president_price": 0.0765,
+      "implied_conditional": 0.4553571428571428
     },
     {
       "candidate": "Jon Ossoff",
-      "nominee_price": 0.1545,
+      "nominee_price": 0.1565,
       "president_price": 0.1155,
-      "implied_conditional": 0.7475728155339806
+      "implied_conditional": 0.7380191693290735
+    },
+    {
+      "candidate": "Marco Rubio",
+      "nominee_price": 0.1545,
+      "president_price": 0.0845,
+      "implied_conditional": 0.5469255663430421
     },
     {
       "candidate": "Kamala Harris",
@@ -293,9 +293,9 @@
     },
     {
       "candidate": "Pete Buttigieg",
-      "nominee_price": 0.0495,
+      "nominee_price": 0.0505,
       "president_price": 0.0275,
-      "implied_conditional": 0.5555555555555556
+      "implied_conditional": 0.5445544554455445
     },
     {
       "candidate": "Tucker Carlson",
@@ -305,21 +305,21 @@
     },
     {
       "candidate": "Ron DeSantis",
-      "nominee_price": 0.0285,
-      "president_price": 0.02,
-      "implied_conditional": 0.7017543859649122
+      "nominee_price": 0.0275,
+      "president_price": 0.0185,
+      "implied_conditional": 0.6727272727272727
     },
     {
       "candidate": "Andy Beshear",
-      "nominee_price": 0.0275,
-      "president_price": 0.013,
-      "implied_conditional": 0.4727272727272727
+      "nominee_price": 0.027,
+      "president_price": 0.014,
+      "implied_conditional": 0.5185185185185185
     },
     {
       "candidate": "Mark Kelly",
-      "nominee_price": 0.027,
+      "nominee_price": 0.0265,
       "president_price": 0.0155,
-      "implied_conditional": 0.5740740740740741
+      "implied_conditional": 0.5849056603773585
     },
     {
       "candidate": "James Talarico",
@@ -344,17 +344,17 @@
     },
     {
       "candidate": "Gavin Newsom",
-      "polymarket": 0.1735,
+      "polymarket": 0.168,
       "kalshi": null,
       "manifold": 0.1514,
-      "spread": 0.0221
+      "spread": 0.0166
     },
     {
       "candidate": "Jon Ossoff",
-      "polymarket": 0.1545,
+      "polymarket": 0.1565,
       "kalshi": null,
       "manifold": 0.1713,
-      "spread": 0.0168
+      "spread": 0.0148
     },
     {
       "candidate": "Kamala Harris",
@@ -367,29 +367,29 @@
       "candidate": "Josh Shapiro",
       "polymarket": 0.0615,
       "kalshi": null,
-      "manifold": 0.044,
-      "spread": 0.0175
+      "manifold": 0.0439,
+      "spread": 0.0176
     },
     {
       "candidate": "Pete Buttigieg",
-      "polymarket": 0.0495,
+      "polymarket": 0.0505,
       "kalshi": null,
       "manifold": 0.0648,
-      "spread": 0.0153
+      "spread": 0.0143
     },
     {
       "candidate": "Andy Beshear",
-      "polymarket": 0.0275,
+      "polymarket": 0.027,
       "kalshi": null,
       "manifold": 0.0202,
-      "spread": 0.0073
+      "spread": 0.0068
     },
     {
       "candidate": "Mark Kelly",
-      "polymarket": 0.027,
+      "polymarket": 0.0265,
       "kalshi": null,
       "manifold": 0.036,
-      "spread": 0.009
+      "spread": 0.0095
     },
     {
       "candidate": "James Talarico",
@@ -415,24 +415,19 @@
   ],
   "gdelt": [
     {
-      "candidate": "Alexandria Ocasio-Cortez",
-      "avg_tone": -1.43,
-      "avg_volume": NaN
-    },
-    {
-      "candidate": "JD Vance",
-      "avg_tone": -1.92,
-      "avg_volume": 0.1957
-    },
-    {
       "candidate": "Gavin Newsom",
-      "avg_tone": NaN,
-      "avg_volume": 0.0869
+      "avg_tone": -1.75,
+      "avg_volume": null
     },
     {
       "candidate": "Jon Ossoff",
       "avg_tone": -0.64,
-      "avg_volume": NaN
+      "avg_volume": null
+    },
+    {
+      "candidate": "Pete Buttigieg",
+      "avg_tone": -1.24,
+      "avg_volume": null
     }
   ],
   "endorsements": [],
