@@ -416,7 +416,8 @@ date,price,candidate,event_slug
 2026-10-02,0.1625,Gavin Newsom,democratic-presidential-nominee-2028
 2026-10-03,0.1605,Gavin Newsom,democratic-presidential-nominee-2028
 2026-10-04,0.1595,Gavin Newsom,democratic-presidential-nominee-2028
-2026-10-05,0.156,Gavin Newsom,democratic-presidential-nominee-2028
+2026-10-05,0.1705,Gavin Newsom,democratic-presidential-nominee-2028
+2026-10-06,0.1585,Gavin Newsom,democratic-presidential-nominee-2028
 2025-07-19,0.175,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
 2025-07-20,0.165,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
 2025-07-21,0.165,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
@@ -839,7 +840,8 @@ date,price,candidate,event_slug
 2026-10-02,0.1655,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
 2026-10-03,0.1675,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
 2026-10-04,0.1665,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
-2026-10-05,0.1795,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
+2026-10-05,0.1695,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
+2026-10-06,0.1795,Alexandria Ocasio-Cortez,democratic-presidential-nominee-2028
 2025-07-19,0.115,Pete Buttigieg,democratic-presidential-nominee-2028
 2025-07-20,0.125,Pete Buttigieg,democratic-presidential-nominee-2028
 2025-07-21,0.125,Pete Buttigieg,democratic-presidential-nominee-2028
@@ -1275,6 +1277,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0505,Pete Buttigieg,democratic-presidential-nominee-2028
 2026-10-04,0.0505,Pete Buttigieg,democratic-presidential-nominee-2028
 2026-10-05,0.0505,Pete Buttigieg,democratic-presidential-nominee-2028
+2026-10-06,0.0505,Pete Buttigieg,democratic-presidential-nominee-2028
 2025-07-19,0.07,Josh Shapiro,democratic-presidential-nominee-2028
 2025-07-20,0.065,Josh Shapiro,democratic-presidential-nominee-2028
 2025-07-21,0.066,Josh Shapiro,democratic-presidential-nominee-2028
@@ -1696,7 +1699,8 @@ date,price,candidate,event_slug
 2026-10-02,0.0605,Josh Shapiro,democratic-presidential-nominee-2028
 2026-10-03,0.0575,Josh Shapiro,democratic-presidential-nominee-2028
 2026-10-04,0.0575,Josh Shapiro,democratic-presidential-nominee-2028
-2026-10-05,0.0595,Josh Shapiro,democratic-presidential-nominee-2028
+2026-10-05,0.059,Josh Shapiro,democratic-presidential-nominee-2028
+2026-10-06,0.064,Josh Shapiro,democratic-presidential-nominee-2028
 2025-07-19,0.045,Kamala Harris,democratic-presidential-nominee-2028
 2025-07-20,0.045,Kamala Harris,democratic-presidential-nominee-2028
 2025-07-21,0.045,Kamala Harris,democratic-presidential-nominee-2028
@@ -2118,7 +2122,8 @@ date,price,candidate,event_slug
 2026-10-02,0.073,Kamala Harris,democratic-presidential-nominee-2028
 2026-10-03,0.0685,Kamala Harris,democratic-presidential-nominee-2028
 2026-10-04,0.07,Kamala Harris,democratic-presidential-nominee-2028
-2026-10-05,0.066,Kamala Harris,democratic-presidential-nominee-2028
+2026-10-05,0.0655,Kamala Harris,democratic-presidential-nominee-2028
+2026-10-06,0.0715,Kamala Harris,democratic-presidential-nominee-2028
 2025-07-19,0.0415,Gretchen Whitmer,democratic-presidential-nominee-2028
 2025-07-20,0.041,Gretchen Whitmer,democratic-presidential-nominee-2028
 2025-07-21,0.041,Gretchen Whitmer,democratic-presidential-nominee-2028
@@ -2549,6 +2554,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0085,Gretchen Whitmer,democratic-presidential-nominee-2028
 2026-10-04,0.0095,Gretchen Whitmer,democratic-presidential-nominee-2028
 2026-10-05,0.009,Gretchen Whitmer,democratic-presidential-nominee-2028
+2026-10-06,0.0085,Gretchen Whitmer,democratic-presidential-nominee-2028
 2025-07-19,0.03,Andy Beshear,democratic-presidential-nominee-2028
 2025-07-20,0.0345,Andy Beshear,democratic-presidential-nominee-2028
 2025-07-21,0.0345,Andy Beshear,democratic-presidential-nominee-2028
@@ -2975,6 +2981,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0315,Andy Beshear,democratic-presidential-nominee-2028
 2026-10-04,0.0315,Andy Beshear,democratic-presidential-nominee-2028
 2026-10-05,0.0305,Andy Beshear,democratic-presidential-nominee-2028
+2026-10-06,0.0325,Andy Beshear,democratic-presidential-nominee-2028
 2025-07-19,0.037,Jon Ossoff,democratic-presidential-nominee-2028
 2025-07-20,0.039,Jon Ossoff,democratic-presidential-nominee-2028
 2025-07-21,0.0375,Jon Ossoff,democratic-presidential-nominee-2028
@@ -3404,7 +3411,8 @@ date,price,candidate,event_slug
 2026-10-02,0.146,Jon Ossoff,democratic-presidential-nominee-2028
 2026-10-03,0.1545,Jon Ossoff,democratic-presidential-nominee-2028
 2026-10-04,0.1545,Jon Ossoff,democratic-presidential-nominee-2028
-2026-10-05,0.1485,Jon Ossoff,democratic-presidential-nominee-2028
+2026-10-05,0.1545,Jon Ossoff,democratic-presidential-nominee-2028
+2026-10-06,0.1495,Jon Ossoff,democratic-presidential-nominee-2028
 2025-07-19,0.0115,Mark Kelly,democratic-presidential-nominee-2028
 2025-07-20,0.0135,Mark Kelly,democratic-presidential-nominee-2028
 2025-07-21,0.0135,Mark Kelly,democratic-presidential-nominee-2028
@@ -3831,7 +3839,8 @@ date,price,candidate,event_slug
 2026-10-02,0.0265,Mark Kelly,democratic-presidential-nominee-2028
 2026-10-03,0.026,Mark Kelly,democratic-presidential-nominee-2028
 2026-10-04,0.026,Mark Kelly,democratic-presidential-nominee-2028
-2026-10-05,0.0255,Mark Kelly,democratic-presidential-nominee-2028
+2026-10-05,0.026,Mark Kelly,democratic-presidential-nominee-2028
+2026-10-06,0.0255,Mark Kelly,democratic-presidential-nominee-2028
 2025-07-19,0.265,JD Vance,presidential-election-winner-2028
 2025-07-20,0.265,JD Vance,presidential-election-winner-2028
 2025-07-21,0.265,JD Vance,presidential-election-winner-2028
@@ -4265,7 +4274,8 @@ date,price,candidate,event_slug
 2026-10-02,0.2065,JD Vance,presidential-election-winner-2028
 2026-10-03,0.2065,JD Vance,presidential-election-winner-2028
 2026-10-04,0.2065,JD Vance,presidential-election-winner-2028
-2026-10-05,0.206,JD Vance,presidential-election-winner-2028
+2026-10-05,0.2015,JD Vance,presidential-election-winner-2028
+2026-10-06,0.2015,JD Vance,presidential-election-winner-2028
 2025-07-19,0.145,Gavin Newsom,presidential-election-winner-2028
 2025-07-20,0.135,Gavin Newsom,presidential-election-winner-2028
 2025-07-21,0.135,Gavin Newsom,presidential-election-winner-2028
@@ -4681,7 +4691,8 @@ date,price,candidate,event_slug
 2026-10-02,0.0785,Gavin Newsom,presidential-election-winner-2028
 2026-10-03,0.0785,Gavin Newsom,presidential-election-winner-2028
 2026-10-04,0.0785,Gavin Newsom,presidential-election-winner-2028
-2026-10-05,0.0805,Gavin Newsom,presidential-election-winner-2028
+2026-10-05,0.0785,Gavin Newsom,presidential-election-winner-2028
+2026-10-06,0.0805,Gavin Newsom,presidential-election-winner-2028
 2025-07-19,0.095,Alexandria Ocasio-Cortez,presidential-election-winner-2028
 2025-07-20,0.095,Alexandria Ocasio-Cortez,presidential-election-winner-2028
 2025-07-21,0.095,Alexandria Ocasio-Cortez,presidential-election-winner-2028
@@ -5103,7 +5114,8 @@ date,price,candidate,event_slug
 2026-10-02,0.1315,Alexandria Ocasio-Cortez,presidential-election-winner-2028
 2026-10-03,0.1315,Alexandria Ocasio-Cortez,presidential-election-winner-2028
 2026-10-04,0.1315,Alexandria Ocasio-Cortez,presidential-election-winner-2028
-2026-10-05,0.1425,Alexandria Ocasio-Cortez,presidential-election-winner-2028
+2026-10-05,0.135,Alexandria Ocasio-Cortez,presidential-election-winner-2028
+2026-10-06,0.1415,Alexandria Ocasio-Cortez,presidential-election-winner-2028
 2025-07-19,0.075,Pete Buttigieg,presidential-election-winner-2028
 2025-07-20,0.075,Pete Buttigieg,presidential-election-winner-2028
 2025-07-21,0.075,Pete Buttigieg,presidential-election-winner-2028
@@ -5535,6 +5547,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0275,Pete Buttigieg,presidential-election-winner-2028
 2026-10-04,0.0275,Pete Buttigieg,presidential-election-winner-2028
 2026-10-05,0.0275,Pete Buttigieg,presidential-election-winner-2028
+2026-10-06,0.0275,Pete Buttigieg,presidential-election-winner-2028
 2025-07-19,0.045,Josh Shapiro,presidential-election-winner-2028
 2025-07-20,0.045,Josh Shapiro,presidential-election-winner-2028
 2025-07-21,0.045,Josh Shapiro,presidential-election-winner-2028
@@ -5956,6 +5969,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0295,Josh Shapiro,presidential-election-winner-2028
 2026-10-04,0.0305,Josh Shapiro,presidential-election-winner-2028
 2026-10-05,0.0305,Josh Shapiro,presidential-election-winner-2028
+2026-10-06,0.0305,Josh Shapiro,presidential-election-winner-2028
 2025-07-19,0.05,Marco Rubio,presidential-election-winner-2028
 2025-07-20,0.055,Marco Rubio,presidential-election-winner-2028
 2025-07-21,0.055,Marco Rubio,presidential-election-winner-2028
@@ -6376,6 +6390,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0895,Marco Rubio,presidential-election-winner-2028
 2026-10-04,0.0905,Marco Rubio,presidential-election-winner-2028
 2026-10-05,0.0905,Marco Rubio,presidential-election-winner-2028
+2026-10-06,0.0895,Marco Rubio,presidential-election-winner-2028
 2025-07-19,0.0355,Gretchen Whitmer,presidential-election-winner-2028
 2025-07-20,0.0395,Gretchen Whitmer,presidential-election-winner-2028
 2025-07-21,0.033,Gretchen Whitmer,presidential-election-winner-2028
@@ -6811,6 +6826,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0035,Gretchen Whitmer,presidential-election-winner-2028
 2026-10-04,0.0035,Gretchen Whitmer,presidential-election-winner-2028
 2026-10-05,0.0035,Gretchen Whitmer,presidential-election-winner-2028
+2026-10-06,0.0035,Gretchen Whitmer,presidential-election-winner-2028
 2025-07-19,0.02,Andy Beshear,presidential-election-winner-2028
 2025-07-20,0.019,Andy Beshear,presidential-election-winner-2028
 2025-07-21,0.019,Andy Beshear,presidential-election-winner-2028
@@ -7230,7 +7246,8 @@ date,price,candidate,event_slug
 2026-10-02,0.015,Andy Beshear,presidential-election-winner-2028
 2026-10-03,0.0145,Andy Beshear,presidential-election-winner-2028
 2026-10-04,0.0175,Andy Beshear,presidential-election-winner-2028
-2026-10-05,0.0175,Andy Beshear,presidential-election-winner-2028
+2026-10-05,0.017,Andy Beshear,presidential-election-winner-2028
+2026-10-06,0.016,Andy Beshear,presidential-election-winner-2028
 2025-07-19,0.044,Kamala Harris,presidential-election-winner-2028
 2025-07-20,0.0405,Kamala Harris,presidential-election-winner-2028
 2025-07-21,0.0355,Kamala Harris,presidential-election-winner-2028
@@ -7655,7 +7672,8 @@ date,price,candidate,event_slug
 2026-10-02,0.0395,Kamala Harris,presidential-election-winner-2028
 2026-10-03,0.0395,Kamala Harris,presidential-election-winner-2028
 2026-10-04,0.0395,Kamala Harris,presidential-election-winner-2028
-2026-10-05,0.046,Kamala Harris,presidential-election-winner-2028
+2026-10-05,0.0395,Kamala Harris,presidential-election-winner-2028
+2026-10-06,0.044,Kamala Harris,presidential-election-winner-2028
 2026-02-12,0.024,Jon Ossoff,presidential-election-winner-2028
 2026-02-13,0.0255,Jon Ossoff,presidential-election-winner-2028
 2026-02-14,0.014,Jon Ossoff,presidential-election-winner-2028
@@ -7868,7 +7886,8 @@ date,price,candidate,event_slug
 2026-10-02,0.1105,Jon Ossoff,presidential-election-winner-2028
 2026-10-03,0.1085,Jon Ossoff,presidential-election-winner-2028
 2026-10-04,0.1085,Jon Ossoff,presidential-election-winner-2028
-2026-10-05,0.1055,Jon Ossoff,presidential-election-winner-2028
+2026-10-05,0.1085,Jon Ossoff,presidential-election-winner-2028
+2026-10-06,0.1045,Jon Ossoff,presidential-election-winner-2028
 2026-08-13,0.008,Mark Kelly,presidential-election-winner-2028
 2026-08-14,0.012,Mark Kelly,presidential-election-winner-2028
 2026-08-15,0.0095,Mark Kelly,presidential-election-winner-2028
@@ -7923,6 +7942,7 @@ date,price,candidate,event_slug
 2026-10-03,0.0145,Mark Kelly,presidential-election-winner-2028
 2026-10-04,0.0145,Mark Kelly,presidential-election-winner-2028
 2026-10-05,0.0135,Mark Kelly,presidential-election-winner-2028
+2026-10-06,0.0135,Mark Kelly,presidential-election-winner-2028
 2025-07-19,0.0645,Marco Rubio,republican-presidential-nominee-2028
 2025-07-20,0.071,Marco Rubio,republican-presidential-nominee-2028
 2025-07-21,0.074,Marco Rubio,republican-presidential-nominee-2028
@@ -8364,3 +8384,4 @@ date,price,candidate,event_slug
 2026-10-03,0.1545,Marco Rubio,republican-presidential-nominee-2028
 2026-10-04,0.1535,Marco Rubio,republican-presidential-nominee-2028
 2026-10-05,0.1535,Marco Rubio,republican-presidential-nominee-2028
+2026-10-06,0.1515,Marco Rubio,republican-presidential-nominee-2028
