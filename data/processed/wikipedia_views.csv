@@ -1,5 +1,4 @@
 date,candidate,views
-2025-10-31,Gavin Newsom,16059
 2025-11-01,Gavin Newsom,11487
 2025-11-02,Gavin Newsom,24066
 2025-11-03,Gavin Newsom,18265
@@ -365,7 +364,7 @@ date,candidate,views
 2026-10-29,Gavin Newsom,14970
 2026-10-30,Gavin Newsom,9657
 2026-10-31,Gavin Newsom,7068
-2025-10-31,Alexandria Ocasio-Cortez,10607
+2026-11-01,Gavin Newsom,7005
 2025-11-01,Alexandria Ocasio-Cortez,7895
 2025-11-02,Alexandria Ocasio-Cortez,8811
 2025-11-03,Alexandria Ocasio-Cortez,9614
@@ -731,7 +730,7 @@ date,candidate,views
 2026-10-29,Alexandria Ocasio-Cortez,9466
 2026-10-30,Alexandria Ocasio-Cortez,7505
 2026-10-31,Alexandria Ocasio-Cortez,7333
-2025-10-31,Jon Ossoff,1493
+2026-11-01,Alexandria Ocasio-Cortez,10691
 2025-11-01,Jon Ossoff,1346
 2025-11-02,Jon Ossoff,1378
 2025-11-03,Jon Ossoff,1664
@@ -1097,7 +1096,7 @@ date,candidate,views
 2026-10-29,Jon Ossoff,37484
 2026-10-30,Jon Ossoff,32526
 2026-10-31,Jon Ossoff,23702
-2025-10-31,Pete Buttigieg,5288
+2026-11-01,Jon Ossoff,19866
 2025-11-01,Pete Buttigieg,4413
 2025-11-02,Pete Buttigieg,4487
 2025-11-03,Pete Buttigieg,4287
@@ -1463,7 +1462,7 @@ date,candidate,views
 2026-10-29,Pete Buttigieg,3522
 2026-10-30,Pete Buttigieg,3920
 2026-10-31,Pete Buttigieg,6952
-2025-10-31,JD Vance,52045
+2026-11-01,Pete Buttigieg,4732
 2025-11-01,JD Vance,89238
 2025-11-02,JD Vance,69935
 2025-11-03,JD Vance,44702
@@ -1829,3 +1828,4 @@ date,candidate,views
 2026-10-29,JD Vance,11316
 2026-10-30,JD Vance,15222
 2026-10-31,JD Vance,10824
+2026-11-01,JD Vance,11389
