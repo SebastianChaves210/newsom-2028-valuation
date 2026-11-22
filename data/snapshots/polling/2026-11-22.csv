@@ -1,0 +1,930 @@
+poll_date,pollster,candidate_lastname,pct
+"November 6, 2026",270toWin[1],Harris,30.3
+"November 6, 2026",270toWin[1],Buttigieg,10.0
+"November 6, 2026",270toWin[1],Kelly,7.0
+"November 6, 2026",270toWin[1],Newsom,14.3
+"November 6, 2026",270toWin[1],Ocasio-Cortez,9.0
+"November 6, 2026",270toWin[1],Ossoff,7.0
+"November 6, 2026",270toWin[1],Shapiro,5.0
+"November 20, 2026",RealClearPolling[2],Harris,16.5
+"November 20, 2026",RealClearPolling[2],Buttigieg,14.0
+"November 20, 2026",RealClearPolling[2],Kelly,5.5
+"November 20, 2026",RealClearPolling[2],Newsom,11.3
+"November 20, 2026",RealClearPolling[2],Ocasio-Cortez,14.0
+"November 20, 2026",RealClearPolling[2],Ossoff,15.0
+"November 20, 2026",RealClearPolling[2],Shapiro,3.5
+Aggregate,Aggregate,Harris,23.4
+Aggregate,Aggregate,Buttigieg,12.0
+Aggregate,Aggregate,Kelly,6.3
+Aggregate,Aggregate,Newsom,12.8
+Aggregate,Aggregate,Ocasio-Cortez,11.5
+Aggregate,Aggregate,Ossoff,11.0
+Aggregate,Aggregate,Shapiro,4.3
+"November 14–16, 2026",Emerson College[3],Beshear,4.0
+"November 14–16, 2026",Emerson College[3],Buttigieg,6.0
+"November 14–16, 2026",Emerson College[3],Harris,6.1
+"November 14–16, 2026",Emerson College[3],Kelly,2.6
+"November 14–16, 2026",Emerson College[3],Newsom,8.4
+"November 14–16, 2026",Emerson College[3],Ocasio-Cortez,12.1
+"November 14–16, 2026",Emerson College[3],Ossoff,16.5
+"November 14–16, 2026",Emerson College[3],Shapiro,2.0
+"November 14–16, 2026",Emerson College[3],Beshear,6.5
+"November 14–16, 2026",Emerson College[3],Buttigieg,13.8
+"November 14–16, 2026",Emerson College[3],Harris,15.5
+"November 14–16, 2026",Emerson College[3],Kelly,4.2
+"November 14–16, 2026",Emerson College[3],Newsom,11.3
+"November 14–16, 2026",Emerson College[3],Ocasio-Cortez,15.0
+"November 14–16, 2026",Emerson College[3],Ossoff,17.0
+"November 14–16, 2026",Emerson College[3],Shapiro,2.6
+"November 12–16, 2026",Echelon Insights[4],Beshear,2.0
+"November 12–16, 2026",Echelon Insights[4],Buttigieg,15.0
+"November 12–16, 2026",Echelon Insights[4],Harris,19.0
+"November 12–16, 2026",Echelon Insights[4],Kelly,5.0
+"November 12–16, 2026",Echelon Insights[4],Newsom,11.0
+"November 12–16, 2026",Echelon Insights[4],Ocasio-Cortez,10.0
+"November 12–16, 2026",Echelon Insights[4],Ossoff,10.0
+"November 12–16, 2026",Echelon Insights[4],Shapiro,4.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Beshear,1.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Buttigieg,15.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Harris,18.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Newsom,10.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Ocasio-Cortez,17.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Ossoff,12.0
+"November 11–13, 2026",Strength in Numbers/Verasight[5],Shapiro,4.0
+"November 8–12, 2026",Rainey Center[6],Beshear,5.0
+"November 8–12, 2026",Rainey Center[6],Buttigieg,8.0
+"November 8–12, 2026",Rainey Center[6],Harris,17.0
+"November 8–12, 2026",Rainey Center[6],Kelly,4.0
+"November 8–12, 2026",Rainey Center[6],Newsom,16.0
+"November 8–12, 2026",Rainey Center[6],Ocasio-Cortez,6.0
+"November 8–12, 2026",Rainey Center[6],Ossoff,10.0
+"November 8–12, 2026",Rainey Center[6],Shapiro,7.0
+"November 9–11, 2026",Economist/YouGov[7],Beshear,3.0
+"November 9–11, 2026",Economist/YouGov[7],Buttigieg,10.0
+"November 9–11, 2026",Economist/YouGov[7],Harris,20.0
+"November 9–11, 2026",Economist/YouGov[7],Kelly,4.0
+"November 9–11, 2026",Economist/YouGov[7],Newsom,13.0
+"November 9–11, 2026",Economist/YouGov[7],Ocasio-Cortez,12.0
+"November 9–11, 2026",Economist/YouGov[7],Ossoff,15.0
+"November 9–11, 2026",Economist/YouGov[7],Shapiro,3.0
+"November 4-5, 2026",Cygnal[8],Beshear,3.6
+"November 4-5, 2026",Cygnal[8],Buttigieg,18.5
+"November 4-5, 2026",Cygnal[8],Harris,13.6
+"November 4-5, 2026",Cygnal[8],Newsom,12.1
+"November 4-5, 2026",Cygnal[8],Ocasio-Cortez,17.9
+"November 4-5, 2026",Cygnal[8],Shapiro,6.4
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Beshear,3.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Buttigieg,9.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Harris,28.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Kelly,5.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Newsom,16.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Ocasio-Cortez,9.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Ossoff,7.0
+"October 30 – November 5, 2026",McLaughlin & Associates[9],Shapiro,3.0
+"October 28 – November 1, 2026",AtlasIntel[10],Beshear,3.9
+"October 28 – November 1, 2026",AtlasIntel[10],Buttigieg,15.8
+"October 28 – November 1, 2026",AtlasIntel[10],Harris,12.6
+"October 28 – November 1, 2026",AtlasIntel[10],Kelly,9.1
+"October 28 – November 1, 2026",AtlasIntel[10],Newsom,9.0
+"October 28 – November 1, 2026",AtlasIntel[10],Ocasio-Cortez,17.6
+"October 28 – November 1, 2026",AtlasIntel[10],Ossoff,18.2
+"October 28 – November 1, 2026",AtlasIntel[10],Shapiro,3.4
+"October 24–26, 2026",Harvard CAPS/Harris[11],Beshear,2.0
+"October 24–26, 2026",Harvard CAPS/Harris[11],Buttigieg,10.0
+"October 24–26, 2026",Harvard CAPS/Harris[11],Harris,34.0
+"October 24–26, 2026",Harvard CAPS/Harris[11],Newsom,20.0
+"October 24–26, 2026",Harvard CAPS/Harris[11],Ocasio-Cortez,11.0
+"October 24–26, 2026",Harvard CAPS/Harris[11],Ossoff,7.0
+"October 24–26, 2026",Harvard CAPS/Harris[11],Shapiro,8.0
+"October 23–25, 2026",Leger[12],Beshear,2.0
+"October 23–25, 2026",Leger[12],Buttigieg,8.0
+"October 23–25, 2026",Leger[12],Harris,22.0
+"October 23–25, 2026",Leger[12],Kelly,7.0
+"October 23–25, 2026",Leger[12],Newsom,14.0
+"October 23–25, 2026",Leger[12],Ocasio-Cortez,7.0
+"October 23–25, 2026",Leger[12],Ossoff,6.0
+"October 23–25, 2026",Leger[12],Shapiro,4.0
+"October 12–19, 2026",New York Times/Siena College[13],Beshear,1.0
+"October 12–19, 2026",New York Times/Siena College[13],Buttigieg,8.0
+"October 12–19, 2026",New York Times/Siena College[13],Harris,11.0
+"October 12–19, 2026",New York Times/Siena College[13],Kelly,3.0
+"October 12–19, 2026",New York Times/Siena College[13],Newsom,11.0
+"October 12–19, 2026",New York Times/Siena College[13],Ocasio-Cortez,6.0
+"October 12–19, 2026",New York Times/Siena College[13],Ossoff,5.0
+"October 12–19, 2026",New York Times/Siena College[13],Shapiro,2.0
+"October 15–19, 2026",Echelon Insights[14],Beshear,2.0
+"October 15–19, 2026",Echelon Insights[14],Buttigieg,13.0
+"October 15–19, 2026",Echelon Insights[14],Harris,19.0
+"October 15–19, 2026",Echelon Insights[14],Kelly,7.0
+"October 15–19, 2026",Echelon Insights[14],Newsom,14.0
+"October 15–19, 2026",Echelon Insights[14],Ocasio-Cortez,13.0
+"October 15–19, 2026",Echelon Insights[14],Ossoff,5.0
+"October 15–19, 2026",Echelon Insights[14],Shapiro,4.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Beshear,3.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Buttigieg,10.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Harris,29.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Kelly,6.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Newsom,14.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Ocasio-Cortez,9.0
+"October 5–7, 2026",The Center Square/Noble Predictive Insights[15],Shapiro,5.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Beshear,3.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Buttigieg,9.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Harris,30.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Kelly,5.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Newsom,15.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Ocasio-Cortez,9.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Ossoff,8.0
+"October 2–5, 2026",Focaldata/Financial Times[16],Shapiro,5.0
+"September 26–28, 2026",Harvard CAPS/Harris[17],Buttigieg,11.0
+"September 26–28, 2026",Harvard CAPS/Harris[17],Harris,38.0
+"September 26–28, 2026",Harvard CAPS/Harris[17],Newsom,17.0
+"September 26–28, 2026",Harvard CAPS/Harris[17],Ocasio-Cortez,12.0
+"September 26–28, 2026",Harvard CAPS/Harris[17],Ossoff,6.0
+"September 26–28, 2026",Harvard CAPS/Harris[17],Shapiro,7.0
+"September 16–22, 2026",McLaughlin & Associates[18],Buttigieg,9.0
+"September 16–22, 2026",McLaughlin & Associates[18],Harris,29.0
+"September 16–22, 2026",McLaughlin & Associates[18],Kelly,8.0
+"September 16–22, 2026",McLaughlin & Associates[18],Newsom,12.0
+"September 16–22, 2026",McLaughlin & Associates[18],Ocasio-Cortez,8.0
+"September 16–22, 2026",McLaughlin & Associates[18],Shapiro,5.0
+"September 17–21, 2026",Echelon Insights[19],Beshear,2.0
+"September 17–21, 2026",Echelon Insights[19],Buttigieg,10.0
+"September 17–21, 2026",Echelon Insights[19],Harris,24.0
+"September 17–21, 2026",Echelon Insights[19],Kelly,7.0
+"September 17–21, 2026",Echelon Insights[19],Newsom,14.0
+"September 17–21, 2026",Echelon Insights[19],Ocasio-Cortez,7.0
+"September 17–21, 2026",Echelon Insights[19],Ossoff,8.0
+"September 17–21, 2026",Echelon Insights[19],Shapiro,3.0
+"September 13–15, 2026",Big Data Poll[20],Beshear,3.5
+"September 13–15, 2026",Big Data Poll[20],Buttigieg,10.3
+"September 13–15, 2026",Big Data Poll[20],Harris,26.7
+"September 13–15, 2026",Big Data Poll[20],Kelly,5.4
+"September 13–15, 2026",Big Data Poll[20],Newsom,16.1
+"September 13–15, 2026",Big Data Poll[20],Ocasio-Cortez,10.3
+"September 13–15, 2026",Big Data Poll[20],Ossoff,6.4
+"September 13–15, 2026",Big Data Poll[20],Shapiro,5.5
+"September 7–13, 2026",Veteran Action/The Honest Poll[21],Buttigieg,13.0
+"September 7–13, 2026",Veteran Action/The Honest Poll[21],Harris,32.0
+"September 7–13, 2026",Veteran Action/The Honest Poll[21],Newsom,21.0
+"September 7–13, 2026",Veteran Action/The Honest Poll[21],Ocasio-Cortez,9.0
+"September 7–13, 2026",Veteran Action/The Honest Poll[21],Ossoff,6.0
+"September 7–13, 2026",Veteran Action/The Honest Poll[21],Shapiro,5.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Beshear,3.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Buttigieg,13.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Harris,25.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Kelly,9.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Newsom,15.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Ocasio-Cortez,8.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Ossoff,10.0
+"September 3, 8–10, 2026",Liberal Currents/Center for Strategic Politics[22],Shapiro,6.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Beshear,3.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Buttigieg,9.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Harris,29.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Kelly,6.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Newsom,14.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Ocasio-Cortez,11.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Ossoff,7.0
+"August 28 – September 2, 2026",Focaldata/Financial Times[23],Shapiro,8.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Beshear,3.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Buttigieg,16.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Harris,17.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Kelly,10.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Newsom,14.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Ocasio-Cortez,14.0
+"August 25 – September 1, 2026",BGSU/YouGov[24],Shapiro,3.0
+"August 28–30, 2026",Harvard CAPS/Harris[25],Buttigieg,9.0
+"August 28–30, 2026",Harvard CAPS/Harris[25],Harris,42.0
+"August 28–30, 2026",Harvard CAPS/Harris[25],Newsom,18.0
+"August 28–30, 2026",Harvard CAPS/Harris[25],Ocasio-Cortez,9.0
+"August 28–30, 2026",Harvard CAPS/Harris[25],Ossoff,7.0
+"August 28–30, 2026",Harvard CAPS/Harris[25],Shapiro,7.0
+"August 28–30, 2026",Morning Consult[26],Buttigieg,9.0
+"August 28–30, 2026",Morning Consult[26],Harris,24.0
+"August 28–30, 2026",Morning Consult[26],Newsom,12.0
+"August 28–30, 2026",Morning Consult[26],Ossoff,7.0
+"August 26–28, 2026",Quantus Insights[27],Buttigieg,25.7
+"August 26–28, 2026",Quantus Insights[27],Harris,8.1
+"August 26–28, 2026",Quantus Insights[27],Newsom,7.1
+"August 26–28, 2026",Quantus Insights[27],Ocasio-Cortez,15.3
+"August 26–28, 2026",Quantus Insights[27],Ossoff,21.3
+"August 18–24, 2026",McLaughlin & Associates[28],Buttigieg,10.0
+"August 18–24, 2026",McLaughlin & Associates[28],Harris,29.0
+"August 18–24, 2026",McLaughlin & Associates[28],Kelly,7.0
+"August 18–24, 2026",McLaughlin & Associates[28],Newsom,16.0
+"August 18–24, 2026",McLaughlin & Associates[28],Ocasio-Cortez,9.0
+"August 18–24, 2026",McLaughlin & Associates[28],Shapiro,6.0
+"August 13–17, 2026",Echelon Insights[29],Beshear,2.0
+"August 13–17, 2026",Echelon Insights[29],Buttigieg,13.0
+"August 13–17, 2026",Echelon Insights[29],Harris,18.0
+"August 13–17, 2026",Echelon Insights[29],Kelly,7.0
+"August 13–17, 2026",Echelon Insights[29],Newsom,12.0
+"August 13–17, 2026",Echelon Insights[29],Ocasio-Cortez,11.0
+"August 13–17, 2026",Echelon Insights[29],Ossoff,5.0
+"August 13–17, 2026",Echelon Insights[29],Shapiro,6.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Beshear,3.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Buttigieg,12.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Harris,28.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Kelly,5.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Newsom,14.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Ocasio-Cortez,7.0
+"August 12-16, 2026",The Center Square/Noble Predictive Insights[30],Shapiro,5.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Beshear,1.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Buttigieg,13.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Harris,26.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Kelly,6.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Newsom,15.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Ocasio-Cortez,9.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Ossoff,5.0
+"August 7–11, 2026",Focaldata/Financial Times[31],Shapiro,8.0
+"July 26–29, 2026",Big Data Poll[32],Beshear,4.0
+"July 26–29, 2026",Big Data Poll[32],Buttigieg,7.4
+"July 26–29, 2026",Big Data Poll[32],Harris,29.7
+"July 26–29, 2026",Big Data Poll[32],Kelly,5.0
+"July 26–29, 2026",Big Data Poll[32],Newsom,14.3
+"July 26–29, 2026",Big Data Poll[32],Ocasio-Cortez,8.6
+"July 26–29, 2026",Big Data Poll[32],Ossoff,6.2
+"July 26–29, 2026",Big Data Poll[32],Shapiro,6.5
+"July 15–21, 2026",McLaughlin & Associates[33],Buttigieg,8.0
+"July 15–21, 2026",McLaughlin & Associates[33],Harris,28.0
+"July 15–21, 2026",McLaughlin & Associates[33],Kelly,7.0
+"July 15–21, 2026",McLaughlin & Associates[33],Newsom,17.0
+"July 15–21, 2026",McLaughlin & Associates[33],Ocasio-Cortez,10.0
+"July 15–21, 2026",McLaughlin & Associates[33],Shapiro,4.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Beshear,2.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Buttigieg,9.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Harris,31.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Kelly,3.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Newsom,14.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Ocasio-Cortez,7.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Ossoff,4.0
+"July 17–20, 2026",Daily Mail/J.L. Partners[34][35],Shapiro,5.0
+"July 19–20, 2026",Emerson College[36],Beshear,6.7
+"July 19–20, 2026",Emerson College[36],Buttigieg,18.8
+"July 19–20, 2026",Emerson College[36],Harris,8.1
+"July 19–20, 2026",Emerson College[36],Newsom,16.9
+"July 19–20, 2026",Emerson College[36],Ocasio-Cortez,12.5
+"July 19–20, 2026",Emerson College[36],Ossoff,12.6
+"July 19–20, 2026",Emerson College[36],Shapiro,5.0
+"July 9–13, 2026",Echelon Insights[37],Beshear,3.0
+"July 9–13, 2026",Echelon Insights[37],Buttigieg,13.0
+"July 9–13, 2026",Echelon Insights[37],Harris,21.0
+"July 9–13, 2026",Echelon Insights[37],Kelly,4.0
+"July 9–13, 2026",Echelon Insights[37],Newsom,14.0
+"July 9–13, 2026",Echelon Insights[37],Ocasio-Cortez,9.0
+"July 9–13, 2026",Echelon Insights[37],Ossoff,3.0
+"July 9–13, 2026",Echelon Insights[37],Shapiro,7.0
+"July 11–12, 2026",Harvard CAPS/Harris[38],Buttigieg,10.0
+"July 11–12, 2026",Harvard CAPS/Harris[38],Harris,37.0
+"July 11–12, 2026",Harvard CAPS/Harris[38],Newsom,24.0
+"July 11–12, 2026",Harvard CAPS/Harris[38],Ocasio-Cortez,9.0
+"July 11–12, 2026",Harvard CAPS/Harris[38],Shapiro,9.0
+"July 8–10, 2026",YouGov[39],Beshear,2.0
+"July 8–10, 2026",YouGov[39],Buttigieg,9.0
+"July 8–10, 2026",YouGov[39],Harris,17.0
+"July 8–10, 2026",YouGov[39],Kelly,3.0
+"July 8–10, 2026",YouGov[39],Newsom,13.0
+"July 8–10, 2026",YouGov[39],Ocasio-Cortez,10.0
+"July 8–10, 2026",YouGov[39],Ossoff,3.0
+"July 8–10, 2026",YouGov[39],Shapiro,1.0
+"July 3–7, 2026",Quantus Insights[40],Buttigieg,12.9
+"July 3–7, 2026",Quantus Insights[40],Harris,35.3
+"July 3–7, 2026",Quantus Insights[40],Newsom,17.7
+"July 3–7, 2026",Quantus Insights[40],Ocasio-Cortez,11.1
+"July 3–7, 2026",Quantus Insights[40],Shapiro,7.1
+"July 1–6, 2026",Manhattan Institute[41],Beshear,2.0
+"July 1–6, 2026",Manhattan Institute[41],Buttigieg,13.0
+"July 1–6, 2026",Manhattan Institute[41],Harris,19.0
+"July 1–6, 2026",Manhattan Institute[41],Kelly,6.0
+"July 1–6, 2026",Manhattan Institute[41],Newsom,15.0
+"July 1–6, 2026",Manhattan Institute[41],Ocasio-Cortez,12.0
+"July 1–6, 2026",Manhattan Institute[41],Ossoff,3.0
+"July 1–6, 2026",Manhattan Institute[41],Shapiro,4.0
+"July 1–4, 2026",Zogby Analytics[42],Buttigieg,9.2
+"July 1–4, 2026",Zogby Analytics[42],Harris,37.5
+"July 1–4, 2026",Zogby Analytics[42],Kelly,5.9
+"July 1–4, 2026",Zogby Analytics[42],Newsom,19.1
+"July 1–4, 2026",Zogby Analytics[42],Ocasio-Cortez,12.3
+"July 1–4, 2026",Zogby Analytics[42],Shapiro,7.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Beshear,2.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Buttigieg,8.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Harris,33.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Kelly,5.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Newsom,15.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Ocasio-Cortez,9.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Ossoff,2.0
+"June 26–30, 2026",Focaldata/Financial Times[43],Shapiro,7.0
+"June 26-28, 2026",Big Data Poll[44],Beshear,2.2
+"June 26-28, 2026",Big Data Poll[44],Buttigieg,9.5
+"June 26-28, 2026",Big Data Poll[44],Harris,28.8
+"June 26-28, 2026",Big Data Poll[44],Kelly,6.4
+"June 26-28, 2026",Big Data Poll[44],Newsom,15.6
+"June 26-28, 2026",Big Data Poll[44],Ocasio-Cortez,8.3
+"June 26-28, 2026",Big Data Poll[44],Ossoff,3.5
+"June 26-28, 2026",Big Data Poll[44],Shapiro,6.9
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Beshear,3.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Buttigieg,11.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Harris,29.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Kelly,5.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Newsom,15.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Ocasio-Cortez,6.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Ossoff,2.0
+"June 24–26, 2026",Daily Mail/J.L. Partners[45],Shapiro,4.0
+"June 17–23, 2026",McLaughlin & Associates[46],Buttigieg,8.0
+"June 17–23, 2026",McLaughlin & Associates[46],Harris,26.0
+"June 17–23, 2026",McLaughlin & Associates[46],Kelly,3.0
+"June 17–23, 2026",McLaughlin & Associates[46],Newsom,16.0
+"June 17–23, 2026",McLaughlin & Associates[46],Ocasio-Cortez,9.0
+"June 17–23, 2026",McLaughlin & Associates[46],Shapiro,5.0
+"June 11–14, 2026",Echelon Insights[47],Beshear,2.0
+"June 11–14, 2026",Echelon Insights[47],Buttigieg,14.0
+"June 11–14, 2026",Echelon Insights[47],Harris,20.0
+"June 11–14, 2026",Echelon Insights[47],Kelly,4.0
+"June 11–14, 2026",Echelon Insights[47],Newsom,14.0
+"June 11–14, 2026",Echelon Insights[47],Ocasio-Cortez,12.0
+"June 11–14, 2026",Echelon Insights[47],Ossoff,2.0
+"June 11–14, 2026",Echelon Insights[47],Shapiro,6.0
+"June 1–4, 2026",The Center Square/Noble Predictive Insights[48],Beshear,2.0
+"June 1–4, 2026",The Center Square/Noble Predictive Insights[48],Buttigieg,11.0
+"June 1–4, 2026",The Center Square/Noble Predictive Insights[48],Harris,27.0
+"June 1–4, 2026",The Center Square/Noble Predictive Insights[48],Newsom,14.0
+"June 1–4, 2026",The Center Square/Noble Predictive Insights[48],Ocasio-Cortez,8.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Beshear,3.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Buttigieg,8.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Harris,37.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Kelly,5.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Newsom,17.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Ocasio-Cortez,7.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Ossoff,2.0
+"May 29–June 1, 2026",Focaldata/Financial Times[49],Shapiro,3.0
+"May 29–31, 2026",Harvard CAPS/Harris[50],Harris,44.0
+"May 29–31, 2026",Harvard CAPS/Harris[50],Newsom,26.0
+"May 29–31, 2026",Harvard CAPS/Harris[50],Ocasio-Cortez,8.0
+"May 29–31, 2026",Harvard CAPS/Harris[50],Shapiro,10.0
+"May 26–28, 2026",I&I/TIPP[51],Beshear,2.0
+"May 26–28, 2026",I&I/TIPP[51],Buttigieg,6.0
+"May 26–28, 2026",I&I/TIPP[51],Harris,31.0
+"May 26–28, 2026",I&I/TIPP[51],Kelly,4.0
+"May 26–28, 2026",I&I/TIPP[51],Newsom,14.0
+"May 26–28, 2026",I&I/TIPP[51],Ocasio-Cortez,5.0
+"May 26–28, 2026",I&I/TIPP[51],Ossoff,1.0
+"May 26–28, 2026",I&I/TIPP[51],Shapiro,6.0
+"May 24–25, 2026",Emerson College[52],Beshear,8.5
+"May 24–25, 2026",Emerson College[52],Buttigieg,17.9
+"May 24–25, 2026",Emerson College[52],Harris,9.9
+"May 24–25, 2026",Emerson College[52],Newsom,15.9
+"May 24–25, 2026",Emerson College[52],Ocasio-Cortez,11.1
+"May 24–25, 2026",Emerson College[52],Shapiro,10.0
+"May 16–20, 2026",Overton Insights[53],Beshear,3.0
+"May 16–20, 2026",Overton Insights[53],Buttigieg,16.0
+"May 16–20, 2026",Overton Insights[53],Harris,9.0
+"May 16–20, 2026",Overton Insights[53],Kelly,4.0
+"May 16–20, 2026",Overton Insights[53],Newsom,13.0
+"May 16–20, 2026",Overton Insights[53],Ocasio-Cortez,12.0
+"May 16–20, 2026",Overton Insights[53],Shapiro,8.0
+"May 14–18, 2026",Echelon Insights[54],Beshear,2.0
+"May 14–18, 2026",Echelon Insights[54],Buttigieg,10.0
+"May 14–18, 2026",Echelon Insights[54],Harris,23.0
+"May 14–18, 2026",Echelon Insights[54],Kelly,6.0
+"May 14–18, 2026",Echelon Insights[54],Newsom,17.0
+"May 14–18, 2026",Echelon Insights[54],Ocasio-Cortez,11.0
+"May 14–18, 2026",Echelon Insights[54],Ossoff,1.0
+"May 14–18, 2026",Echelon Insights[54],Shapiro,5.0
+"May 12–18, 2026",McLaughlin & Associates[55],Buttigieg,9.0
+"May 12–18, 2026",McLaughlin & Associates[55],Harris,28.0
+"May 12–18, 2026",McLaughlin & Associates[55],Newsom,16.0
+"May 12–18, 2026",McLaughlin & Associates[55],Ocasio-Cortez,7.0
+"May 12–18, 2026",McLaughlin & Associates[55],Shapiro,6.0
+"May 6–11, 2026",Lake Research Partners[56],Beshear,3.0
+"May 6–11, 2026",Lake Research Partners[56],Buttigieg,16.0
+"May 6–11, 2026",Lake Research Partners[56],Harris,26.0
+"May 6–11, 2026",Lake Research Partners[56],Kelly,8.0
+"May 6–11, 2026",Lake Research Partners[56],Newsom,17.0
+"May 6–11, 2026",Lake Research Partners[56],Ocasio-Cortez,10.0
+"May 6–11, 2026",Lake Research Partners[56],Shapiro,7.0
+"May 4–7, 2026",AtlasIntel[57],Beshear,4.1
+"May 4–7, 2026",AtlasIntel[57],Buttigieg,22.4
+"May 4–7, 2026",AtlasIntel[57],Harris,12.9
+"May 4–7, 2026",AtlasIntel[57],Newsom,21.2
+"May 4–7, 2026",AtlasIntel[57],Ocasio-Cortez,26.0
+"May 4–7, 2026",AtlasIntel[57],Shapiro,2.4
+"May 1–5, 2026",Focaldata/Financial Times[58],Beshear,2.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Buttigieg,9.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Harris,38.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Kelly,6.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Newsom,16.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Ocasio-Cortez,9.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Ossoff,1.0
+"May 1–5, 2026",Focaldata/Financial Times[58],Shapiro,5.0
+"April 23–26, 2026",Harvard CAPS/Harris[59],Harris,50.0
+"April 23–26, 2026",Harvard CAPS/Harris[59],Newsom,22.0
+"April 23–26, 2026",Harvard CAPS/Harris[59],Ocasio-Cortez,8.0
+"April 23–26, 2026",Harvard CAPS/Harris[59],Shapiro,9.0
+"April 21–23, 2026",Verasight[60],Buttigieg,12.0
+"April 21–23, 2026",Verasight[60],Harris,22.0
+"April 21–23, 2026",Verasight[60],Kelly,6.0
+"April 21–23, 2026",Verasight[60],Newsom,15.0
+"April 21–23, 2026",Verasight[60],Ocasio-Cortez,13.0
+"April 21–23, 2026",Verasight[60],Shapiro,4.0
+"April 17–20, 2026",Echelon Insights[61],Beshear,2.0
+"April 17–20, 2026",Echelon Insights[61],Buttigieg,12.0
+"April 17–20, 2026",Echelon Insights[61],Harris,22.0
+"April 17–20, 2026",Echelon Insights[61],Kelly,3.0
+"April 17–20, 2026",Echelon Insights[61],Newsom,21.0
+"April 17–20, 2026",Echelon Insights[61],Ocasio-Cortez,10.0
+"April 17–20, 2026",Echelon Insights[61],Ossoff,2.0
+"April 17–20, 2026",Echelon Insights[61],Shapiro,5.0
+"April 8–15, 2026",McLaughlin & Associates[62],Buttigieg,10.0
+"April 8–15, 2026",McLaughlin & Associates[62],Harris,29.0
+"April 8–15, 2026",McLaughlin & Associates[62],Newsom,15.0
+"April 8–15, 2026",McLaughlin & Associates[62],Ocasio-Cortez,4.0
+"April 8–15, 2026",McLaughlin & Associates[62],Shapiro,4.0
+"April 8–13, 2026",YouGov[63],Beshear,2.0
+"April 8–13, 2026",YouGov[63],Buttigieg,9.0
+"April 8–13, 2026",YouGov[63],Harris,24.0
+"April 8–13, 2026",YouGov[63],Kelly,5.0
+"April 8–13, 2026",YouGov[63],Newsom,12.0
+"April 8–13, 2026",YouGov[63],Ocasio-Cortez,9.0
+"April 8–13, 2026",YouGov[63],Shapiro,4.0
+"March 25–26, 2026",Harvard CAPS/Harris[64],Harris,41.0
+"March 25–26, 2026",Harvard CAPS/Harris[64],Newsom,26.0
+"March 25–26, 2026",Harvard CAPS/Harris[64],Ocasio-Cortez,8.0
+"March 25–26, 2026",Harvard CAPS/Harris[64],Shapiro,10.0
+"March 18–20, 2026",Daily Mail/J.L. Partners[65][66],Buttigieg,10.0
+"March 18–20, 2026",Daily Mail/J.L. Partners[65][66],Harris,22.0
+"March 18–20, 2026",Daily Mail/J.L. Partners[65][66],Newsom,19.0
+"March 18–20, 2026",Daily Mail/J.L. Partners[65][66],Ocasio-Cortez,7.0
+"March 18–20, 2026",Daily Mail/J.L. Partners[65][66],Shapiro,8.0
+"March 12–16, 2026",Echelon Insights[67],Beshear,3.0
+"March 12–16, 2026",Echelon Insights[67],Buttigieg,9.0
+"March 12–16, 2026",Echelon Insights[67],Harris,21.0
+"March 12–16, 2026",Echelon Insights[67],Kelly,4.0
+"March 12–16, 2026",Echelon Insights[67],Newsom,19.0
+"March 12–16, 2026",Echelon Insights[67],Ocasio-Cortez,11.0
+"March 12–16, 2026",Echelon Insights[67],Ossoff,1.0
+"March 12–16, 2026",Echelon Insights[67],Shapiro,5.0
+"March 6–10, 2026",Focaldata[68],Beshear,2.0
+"March 6–10, 2026",Focaldata[68],Buttigieg,8.0
+"March 6–10, 2026",Focaldata[68],Harris,39.0
+"March 6–10, 2026",Focaldata[68],Kelly,4.0
+"March 6–10, 2026",Focaldata[68],Newsom,22.0
+"March 6–10, 2026",Focaldata[68],Ocasio-Cortez,11.0
+"March 6–10, 2026",Focaldata[68],Ossoff,2.0
+"March 6–10, 2026",Focaldata[68],Shapiro,6.0
+"March 4–9, 2026",McLaughlin & Associates[69],Buttigieg,9.0
+"March 4–9, 2026",McLaughlin & Associates[69],Harris,20.0
+"March 4–9, 2026",McLaughlin & Associates[69],Newsom,19.0
+"March 4–9, 2026",McLaughlin & Associates[69],Ocasio-Cortez,11.0
+"March 4–9, 2026",McLaughlin & Associates[69],Shapiro,5.0
+"March 3–9, 2026",Yale Youth Poll[70],Beshear,2.4
+"March 3–9, 2026",Yale Youth Poll[70],Buttigieg,13.9
+"March 3–9, 2026",Yale Youth Poll[70],Harris,19.7
+"March 3–9, 2026",Yale Youth Poll[70],Kelly,6.7
+"March 3–9, 2026",Yale Youth Poll[70],Newsom,19.1
+"March 3–9, 2026",Yale Youth Poll[70],Ocasio-Cortez,12.7
+"March 3–9, 2026",Yale Youth Poll[70],Ossoff,1.4
+"March 3–9, 2026",Yale Youth Poll[70],Shapiro,3.5
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Beshear,2.0
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Buttigieg,7.0
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Harris,31.0
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Kelly,4.0
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Newsom,16.0
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Ocasio-Cortez,6.0
+"March 2–5, 2026",The Center Square/Noble Predictive Insights[71],Shapiro,5.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Beshear,2.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Buttigieg,10.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Harris,23.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Kelly,5.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Newsom,19.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Ocasio-Cortez,7.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Ossoff,1.0
+"February 25–27, 2026",Daily Mail/J.L. Partners[72],Shapiro,5.0
+"February 25–26, 2026",Harvard CAPS/Harris[73],Harris,39.0
+"February 25–26, 2026",Harvard CAPS/Harris[73],Newsom,24.0
+"February 25–26, 2026",Harvard CAPS/Harris[73],Ocasio-Cortez,14.0
+"February 25–26, 2026",Harvard CAPS/Harris[73],Shapiro,10.0
+"February 19–23, 2026",Echelon Insights[74],Beshear,2.0
+"February 19–23, 2026",Echelon Insights[74],Buttigieg,8.0
+"February 19–23, 2026",Echelon Insights[74],Harris,18.0
+"February 19–23, 2026",Echelon Insights[74],Kelly,4.0
+"February 19–23, 2026",Echelon Insights[74],Newsom,24.0
+"February 19–23, 2026",Echelon Insights[74],Ocasio-Cortez,9.0
+"February 19–23, 2026",Echelon Insights[74],Ossoff,1.0
+"February 19–23, 2026",Echelon Insights[74],Shapiro,4.0
+"February 21–22, 2026",Emerson College[75],Beshear,5.1
+"February 21–22, 2026",Emerson College[75],Buttigieg,15.7
+"February 21–22, 2026",Emerson College[75],Harris,12.8
+"February 21–22, 2026",Emerson College[75],Newsom,19.6
+"February 21–22, 2026",Emerson College[75],Ocasio-Cortez,9.1
+"February 21–22, 2026",Emerson College[75],Shapiro,7.0
+"February 13–18, 2026",BGSU/YouGov[76],Beshear,3.0
+"February 13–18, 2026",BGSU/YouGov[76],Buttigieg,11.0
+"February 13–18, 2026",BGSU/YouGov[76],Harris,18.0
+"February 13–18, 2026",BGSU/YouGov[76],Kelly,7.0
+"February 13–18, 2026",BGSU/YouGov[76],Newsom,21.0
+"February 13–18, 2026",BGSU/YouGov[76],Ocasio-Cortez,11.0
+"February 13–18, 2026",BGSU/YouGov[76],Shapiro,3.0
+"February 6–15, 2026",Manhattan Institute[77],Beshear,2.0
+"February 6–15, 2026",Manhattan Institute[77],Buttigieg,8.0
+"February 6–15, 2026",Manhattan Institute[77],Harris,23.0
+"February 6–15, 2026",Manhattan Institute[77],Kelly,4.0
+"February 6–15, 2026",Manhattan Institute[77],Newsom,20.0
+"February 6–15, 2026",Manhattan Institute[77],Ocasio-Cortez,7.0
+"February 6–15, 2026",Manhattan Institute[77],Ossoff,1.0
+"February 6–15, 2026",Manhattan Institute[77],Shapiro,5.0
+"February 9–12, 2026",Yahoo/YouGov[78],Buttigieg,13.0
+"February 9–12, 2026",Yahoo/YouGov[78],Harris,18.0
+"February 9–12, 2026",Yahoo/YouGov[78],Kelly,9.0
+"February 9–12, 2026",Yahoo/YouGov[78],Newsom,19.0
+"February 9–12, 2026",Yahoo/YouGov[78],Ocasio-Cortez,12.0
+"February 10, 2026",Focaldata[79],Beshear,1.0
+"February 10, 2026",Focaldata[79],Buttigieg,7.0
+"February 10, 2026",Focaldata[79],Harris,39.0
+"February 10, 2026",Focaldata[79],Kelly,6.0
+"February 10, 2026",Focaldata[79],Newsom,21.0
+"February 10, 2026",Focaldata[79],Ocasio-Cortez,10.0
+"February 10, 2026",Focaldata[79],Ossoff,1.0
+"February 10, 2026",Focaldata[79],Shapiro,7.0
+"January 28–29, 2026",Harvard CAPS/Harris[80],Harris,39.0
+"January 28–29, 2026",Harvard CAPS/Harris[80],Newsom,30.0
+"January 28–29, 2026",Harvard CAPS/Harris[80],Ocasio-Cortez,12.0
+"January 28–29, 2026",Harvard CAPS/Harris[80],Shapiro,9.0
+"January 27–29, 2026",I&I/TIPP[81],Beshear,2.0
+"January 27–29, 2026",I&I/TIPP[81],Buttigieg,5.0
+"January 27–29, 2026",I&I/TIPP[81],Harris,38.0
+"January 27–29, 2026",I&I/TIPP[81],Kelly,3.0
+"January 27–29, 2026",I&I/TIPP[81],Newsom,13.0
+"January 27–29, 2026",I&I/TIPP[81],Ocasio-Cortez,2.0
+"January 27–29, 2026",I&I/TIPP[81],Ossoff,2.0
+"January 27–29, 2026",I&I/TIPP[81],Shapiro,4.0
+"January 21–27, 2026",McLaughlin & Associates[82],Buttigieg,8.0
+"January 21–27, 2026",McLaughlin & Associates[82],Harris,27.0
+"January 21–27, 2026",McLaughlin & Associates[82],Newsom,14.0
+"January 21–27, 2026",McLaughlin & Associates[82],Ocasio-Cortez,7.0
+"January 21–27, 2026",McLaughlin & Associates[82],Shapiro,4.0
+"January 23–26, 2026",Focaldata[83],Beshear,2.0
+"January 23–26, 2026",Focaldata[83],Buttigieg,9.0
+"January 23–26, 2026",Focaldata[83],Harris,40.0
+"January 23–26, 2026",Focaldata[83],Kelly,6.0
+"January 23–26, 2026",Focaldata[83],Newsom,22.0
+"January 23–26, 2026",Focaldata[83],Ocasio-Cortez,9.0
+"January 23–26, 2026",Focaldata[83],Ossoff,1.0
+"January 23–26, 2026",Focaldata[83],Shapiro,4.0
+"January 22–26, 2026",Echelon Insights[84],Beshear,2.0
+"January 22–26, 2026",Echelon Insights[84],Buttigieg,8.0
+"January 22–26, 2026",Echelon Insights[84],Harris,21.0
+"January 22–26, 2026",Echelon Insights[84],Kelly,4.0
+"January 22–26, 2026",Echelon Insights[84],Newsom,27.0
+"January 22–26, 2026",Echelon Insights[84],Ocasio-Cortez,9.0
+"January 22–26, 2026",Echelon Insights[84],Shapiro,3.0
+"January 22–24, 2026",Big Data Poll[85],Beshear,2.5
+"January 22–24, 2026",Big Data Poll[85],Buttigieg,11.7
+"January 22–24, 2026",Big Data Poll[85],Harris,31.4
+"January 22–24, 2026",Big Data Poll[85],Newsom,22.2
+"January 22–24, 2026",Big Data Poll[85],Ocasio-Cortez,6.4
+"January 22–24, 2026",Big Data Poll[85],Shapiro,6.1
+"January 9–14, 2026",YouGov[86],Beshear,2.0
+"January 9–14, 2026",YouGov[86],Buttigieg,8.0
+"January 9–14, 2026",YouGov[86],Harris,20.0
+"January 9–14, 2026",YouGov[86],Kelly,7.0
+"January 9–14, 2026",YouGov[86],Newsom,17.0
+"January 9–14, 2026",YouGov[86],Ocasio-Cortez,9.0
+"January 9–14, 2026",YouGov[86],Shapiro,2.0
+"January 1–7, 2026",Zogby Analytics[87],Buttigieg,7.6
+"January 1–7, 2026",Zogby Analytics[87],Harris,30.4
+"January 1–7, 2026",Zogby Analytics[87],Kelly,7.3
+"January 1–7, 2026",Zogby Analytics[87],Newsom,20.7
+"January 1–7, 2026",Zogby Analytics[87],Ocasio-Cortez,11.0
+"January 1–7, 2026",Zogby Analytics[87],Shapiro,6.0
+"December 17–19, 2025",Daily Mail/J.L. Partners[88],Buttigieg,7.0
+"December 17–19, 2025",Daily Mail/J.L. Partners[88],Harris,30.0
+"December 17–19, 2025",Daily Mail/J.L. Partners[88],Newsom,21.0
+"December 17–19, 2025",Daily Mail/J.L. Partners[88],Ocasio-Cortez,3.0
+"December 17–19, 2025",Daily Mail/J.L. Partners[88],Shapiro,4.0
+"December 17–19, 2025",Daily Mail/J.L. Partners[88],Whitmer,2.0
+"December 15–19, 2025",AtlasIntel[89],Buttigieg,14.5
+"December 15–19, 2025",AtlasIntel[89],Harris,7.8
+"December 15–19, 2025",AtlasIntel[89],Newsom,35.4
+"December 15–19, 2025",AtlasIntel[89],Ocasio-Cortez,16.0
+"December 15–19, 2025",AtlasIntel[89],Shapiro,6.1
+"December 15–19, 2025",AtlasIntel[89],Whitmer,1.8
+"December 12–19, 2025",McLaughlin & Associates[90],Buttigieg,8.0
+"December 12–19, 2025",McLaughlin & Associates[90],Harris,27.0
+"December 12–19, 2025",McLaughlin & Associates[90],Newsom,17.0
+"December 12–19, 2025",McLaughlin & Associates[90],Ocasio-Cortez,6.0
+"December 12–19, 2025",McLaughlin & Associates[90],Shapiro,5.0
+"December 12–19, 2025",McLaughlin & Associates[90],Whitmer,2.0
+"December 11–15, 2025",Echelon Insights[91],Buttigieg,11.0
+"December 11–15, 2025",Echelon Insights[91],Harris,22.0
+"December 11–15, 2025",Echelon Insights[91],Newsom,23.0
+"December 11–15, 2025",Echelon Insights[91],Ocasio-Cortez,6.0
+"December 11–15, 2025",Echelon Insights[91],Shapiro,4.0
+"December 11–15, 2025",Echelon Insights[91],Whitmer,2.0
+"December 10–12, 2025",Big Data Poll[92],Buttigieg,10.0
+"December 10–12, 2025",Big Data Poll[92],Harris,31.1
+"December 10–12, 2025",Big Data Poll[92],Newsom,20.3
+"December 10–12, 2025",Big Data Poll[92],Ocasio-Cortez,6.3
+"December 10–12, 2025",Big Data Poll[92],Shapiro,6.4
+"December 10–12, 2025",Big Data Poll[92],Whitmer,3.1
+"November 17–24, 2025",McLaughlin & Associates[93],Buttigieg,8.0
+"November 17–24, 2025",McLaughlin & Associates[93],Harris,29.0
+"November 17–24, 2025",McLaughlin & Associates[93],Newsom,20.0
+"November 17–24, 2025",McLaughlin & Associates[93],Ocasio-Cortez,6.0
+"November 17–24, 2025",McLaughlin & Associates[93],Shapiro,4.0
+"November 17–24, 2025",McLaughlin & Associates[93],Whitmer,2.0
+"November 13–17, 2025",Echelon Insights[94],Buttigieg,12.0
+"November 13–17, 2025",Echelon Insights[94],Harris,17.0
+"November 13–17, 2025",Echelon Insights[94],Newsom,29.0
+"November 13–17, 2025",Echelon Insights[94],Ocasio-Cortez,6.0
+"November 13–17, 2025",Echelon Insights[94],Shapiro,3.0
+"November 13–17, 2025",Echelon Insights[94],Whitmer,1.0
+"October 29 – November 11, 2025",Yale Youth Poll[95],Buttigieg,13.8
+"October 29 – November 11, 2025",Yale Youth Poll[95],Harris,18.3
+"October 29 – November 11, 2025",Yale Youth Poll[95],Newsom,24.5
+"October 29 – November 11, 2025",Yale Youth Poll[95],Ocasio-Cortez,15.5
+"October 29 – November 11, 2025",Yale Youth Poll[95],Shapiro,4.1
+"October 29 – November 11, 2025",Yale Youth Poll[95],Whitmer,1.1
+"November 7–9, 2025",Morning Consult[96],Buttigieg,8.0
+"November 7–9, 2025",Morning Consult[96],Harris,29.0
+"November 7–9, 2025",Morning Consult[96],Newsom,20.0
+"November 7–9, 2025",Morning Consult[96],Ocasio-Cortez,7.0
+"November 6–9, 2025",YouGov[97],Buttigieg,10.0
+"November 6–9, 2025",YouGov[97],Harris,21.0
+"November 6–9, 2025",YouGov[97],Newsom,19.0
+"November 6–9, 2025",YouGov[97],Ocasio-Cortez,6.0
+"November 6–9, 2025",YouGov[97],Shapiro,3.0
+"November 6–9, 2025",YouGov[97],Whitmer,1.0
+"November 3–4, 2025",Emerson College[98],Buttigieg,8.6
+"November 3–4, 2025",Emerson College[98],Harris,10.3
+"November 3–4, 2025",Emerson College[98],Newsom,24.5
+"November 3–4, 2025",Emerson College[98],Ocasio-Cortez,2.8
+"November 3–4, 2025",Emerson College[98],Shapiro,2.6
+"November 3–4, 2025",Emerson College[98],Whitmer,1.0
+"October 27–29, 2025",Overton Insights[99],Buttigieg,7.0
+"October 27–29, 2025",Overton Insights[99],Harris,35.0
+"October 27–29, 2025",Overton Insights[99],Newsom,23.0
+"October 27–29, 2025",Overton Insights[99],Ocasio-Cortez,7.0
+"October 27–29, 2025",Overton Insights[99],Shapiro,5.0
+"October 27–29, 2025",Overton Insights[99],Whitmer,4.0
+"October 21–27, 2025",McLaughlin & Associates[100],Buttigieg,6.0
+"October 21–27, 2025",McLaughlin & Associates[100],Harris,25.0
+"October 21–27, 2025",McLaughlin & Associates[100],Newsom,22.0
+"October 21–27, 2025",McLaughlin & Associates[100],Ocasio-Cortez,4.0
+"October 21–27, 2025",McLaughlin & Associates[100],Shapiro,6.0
+"October 21–27, 2025",McLaughlin & Associates[100],Whitmer,1.0
+"October 16–20, 2025",Echelon Insights[101],Buttigieg,10.0
+"October 16–20, 2025",Echelon Insights[101],Harris,24.0
+"October 16–20, 2025",Echelon Insights[101],Newsom,15.0
+"October 16–20, 2025",Echelon Insights[101],Ocasio-Cortez,4.0
+"October 16–20, 2025",Echelon Insights[101],Shapiro,5.0
+"October 16–20, 2025",Echelon Insights[101],Whitmer,2.0
+"October 2–6, 2025",The Center Square/Noble Predictive Insights[102],Buttigieg,7.0
+"October 2–6, 2025",The Center Square/Noble Predictive Insights[102],Harris,33.0
+"October 2–6, 2025",The Center Square/Noble Predictive Insights[102],Newsom,21.0
+"October 2–6, 2025",The Center Square/Noble Predictive Insights[102],Ocasio-Cortez,8.0
+"October 2–6, 2025",The Center Square/Noble Predictive Insights[102],Shapiro,4.0
+"October 2–6, 2025",The Center Square/Noble Predictive Insights[102],Whitmer,3.0
+"September 26–29, 2025",Leger[103],Buttigieg,9.0
+"September 26–29, 2025",Leger[103],Harris,24.0
+"September 26–29, 2025",Leger[103],Newsom,19.0
+"September 26–29, 2025",Leger[103],Ocasio-Cortez,9.0
+"September 26–29, 2025",Leger[103],Shapiro,8.0
+"September 26–29, 2025",Leger[103],Whitmer,4.0
+"September 17–22, 2025",McLaughlin & Associates[104],Buttigieg,7.0
+"September 17–22, 2025",McLaughlin & Associates[104],Harris,21.0
+"September 17–22, 2025",McLaughlin & Associates[104],Newsom,22.0
+"September 17–22, 2025",McLaughlin & Associates[104],Ocasio-Cortez,5.0
+"September 17–22, 2025",McLaughlin & Associates[104],Shapiro,4.0
+"September 17–22, 2025",McLaughlin & Associates[104],Whitmer,1.0
+"September 18–22, 2025",Echelon Insights[105],Buttigieg,7.0
+"September 18–22, 2025",Echelon Insights[105],Harris,23.0
+"September 18–22, 2025",Echelon Insights[105],Newsom,17.0
+"September 18–22, 2025",Echelon Insights[105],Ocasio-Cortez,7.0
+"September 18–22, 2025",Echelon Insights[105],Shapiro,6.0
+"September 18–22, 2025",Echelon Insights[105],Whitmer,2.0
+"September 12–16, 2025",AtlasIntel[106],Buttigieg,12.1
+"September 12–16, 2025",AtlasIntel[106],Harris,20.5
+"September 12–16, 2025",AtlasIntel[106],Newsom,37.4
+"September 12–16, 2025",AtlasIntel[106],Ocasio-Cortez,10.8
+"September 12–16, 2025",AtlasIntel[106],Shapiro,2.1
+"September 12–16, 2025",AtlasIntel[106],Whitmer,0.3
+"September 5–8, 2025",YouGov[107],Buttigieg,6.0
+"September 5–8, 2025",YouGov[107],Harris,19.0
+"September 5–8, 2025",YouGov[107],Newsom,23.0
+"September 5–8, 2025",YouGov[107],Ocasio-Cortez,8.0
+"September 5–8, 2025",YouGov[107],Whitmer,2.0
+"August 29 – September 2, 2025",YouGov/Yahoo[108],Buttigieg,10.0
+"August 29 – September 2, 2025",YouGov/Yahoo[108],Harris,19.0
+"August 29 – September 2, 2025",YouGov/Yahoo[108],Newsom,21.0
+"August 29 – September 2, 2025",YouGov/Yahoo[108],Ocasio-Cortez,12.0
+"August 29 – September 2, 2025",YouGov/Yahoo[108],Shapiro,4.0
+"August 29 – September 2, 2025",YouGov/Yahoo[108],Whitmer,2.0
+"August 29–31, 2025",Leger[109],Buttigieg,8.0
+"August 29–31, 2025",Leger[109],Harris,30.0
+"August 29–31, 2025",Leger[109],Newsom,24.0
+"August 29–31, 2025",Leger[109],Ocasio-Cortez,10.0
+"August 29–31, 2025",Leger[109],Shapiro,2.0
+"August 29–31, 2025",Leger[109],Whitmer,2.0
+"August 21–26, 2025",McLaughlin & Associates[110],Buttigieg,9.0
+"August 21–26, 2025",McLaughlin & Associates[110],Harris,27.0
+"August 21–26, 2025",McLaughlin & Associates[110],Newsom,18.0
+"August 21–26, 2025",McLaughlin & Associates[110],Ocasio-Cortez,4.0
+"August 21–26, 2025",McLaughlin & Associates[110],Shapiro,3.0
+"August 21–26, 2025",McLaughlin & Associates[110],Whitmer,2.0
+"August 25–26, 2025",Emerson College[111],Buttigieg,16.0
+"August 25–26, 2025",Emerson College[111],Harris,11.4
+"August 25–26, 2025",Emerson College[111],Newsom,25.1
+"August 25–26, 2025",Emerson College[111],Ocasio-Cortez,4.1
+"August 25–26, 2025",Emerson College[111],Shapiro,5.3
+"August 25–26, 2025",Emerson College[111],Whitmer,1.5
+"August 22–24, 2025",Morning Consult[112],Buttigieg,9.0
+"August 22–24, 2025",Morning Consult[112],Harris,29.0
+"August 22–24, 2025",Morning Consult[112],Newsom,19.0
+"August 22–24, 2025",Morning Consult[112],Ocasio-Cortez,6.0
+"August 22–24, 2025",Morning Consult[112],Shapiro,4.0
+"August 22–24, 2025",Morning Consult[112],Whitmer,2.0
+"August 14–17, 2025",Echelon Insights[113],Buttigieg,11.0
+"August 14–17, 2025",Echelon Insights[113],Harris,26.0
+"August 14–17, 2025",Echelon Insights[113],Newsom,13.0
+"August 14–17, 2025",Echelon Insights[113],Ocasio-Cortez,6.0
+"August 14–17, 2025",Echelon Insights[113],Shapiro,3.0
+"August 14–17, 2025",Echelon Insights[113],Whitmer,3.0
+"July 13–18, 2025",AtlasIntel[114],Buttigieg,26.7
+"July 13–18, 2025",AtlasIntel[114],Harris,14.5
+"July 13–18, 2025",AtlasIntel[114],Newsom,15.8
+"July 13–18, 2025",AtlasIntel[114],Ocasio-Cortez,18.5
+"July 13–18, 2025",AtlasIntel[114],Shapiro,3.2
+"July 13–18, 2025",AtlasIntel[114],Whitmer,1.4
+"July 10–14, 2025",Echelon Insights[115],Buttigieg,11.0
+"July 10–14, 2025",Echelon Insights[115],Harris,26.0
+"July 10–14, 2025",Echelon Insights[115],Newsom,10.0
+"July 10–14, 2025",Echelon Insights[115],Ocasio-Cortez,6.0
+"July 10–14, 2025",Echelon Insights[115],Shapiro,4.0
+"July 10–14, 2025",Echelon Insights[115],Whitmer,3.0
+"July 9–14, 2025",McLaughlin & Associates[116],Buttigieg,8.0
+"July 9–14, 2025",McLaughlin & Associates[116],Harris,25.0
+"July 9–14, 2025",McLaughlin & Associates[116],Newsom,9.0
+"July 9–14, 2025",McLaughlin & Associates[116],Ocasio-Cortez,9.0
+"July 9–14, 2025",McLaughlin & Associates[116],Shapiro,4.0
+"July 9–14, 2025",McLaughlin & Associates[116],Whitmer,4.0
+"June 23–26, 2025",Overton Insights[117],Buttigieg,11.0
+"June 23–26, 2025",Overton Insights[117],Harris,38.0
+"June 23–26, 2025",Overton Insights[117],Newsom,10.0
+"June 23–26, 2025",Overton Insights[117],Ocasio-Cortez,7.0
+"June 23–26, 2025",Overton Insights[117],Shapiro,7.0
+"June 23–26, 2025",Overton Insights[117],Whitmer,5.0
+"June 24–25, 2025",Emerson College[118],Buttigieg,15.6
+"June 24–25, 2025",Emerson College[118],Harris,12.6
+"June 24–25, 2025",Emerson College[118],Newsom,11.7
+"June 24–25, 2025",Emerson College[118],Ocasio-Cortez,7.1
+"June 24–25, 2025",Emerson College[118],Shapiro,7.0
+"June 24–25, 2025",Emerson College[118],Whitmer,3.1
+"June 12–16, 2025",co/efficient[119],Buttigieg,11.0
+"June 12–16, 2025",co/efficient[119],Harris,26.0
+"June 12–16, 2025",co/efficient[119],Newsom,21.0
+"June 12–16, 2025",co/efficient[119],Ocasio-Cortez,14.0
+"June 12–16, 2025",co/efficient[119],Shapiro,3.0
+"June 10–15, 2025",McLaughlin & Associates[121],Buttigieg,10.0
+"June 10–15, 2025",McLaughlin & Associates[121],Harris,30.0
+"June 10–15, 2025",McLaughlin & Associates[121],Newsom,8.0
+"June 10–15, 2025",McLaughlin & Associates[121],Ocasio-Cortez,7.0
+"June 10–15, 2025",McLaughlin & Associates[121],Shapiro,3.0
+"June 10–15, 2025",McLaughlin & Associates[121],Whitmer,3.0
+"June 13–15, 2025",Morning Consult[122],Buttigieg,7.0
+"June 13–15, 2025",Morning Consult[122],Harris,34.0
+"June 13–15, 2025",Morning Consult[122],Newsom,11.0
+"June 13–15, 2025",Morning Consult[122],Ocasio-Cortez,7.0
+"June 13–15, 2025",Morning Consult[122],Shapiro,2.0
+"June 13–15, 2025",Morning Consult[122],Whitmer,2.0
+"May 21–27, 2025",AtlasIntel[123],Buttigieg,31.5
+"May 21–27, 2025",AtlasIntel[123],Harris,16.6
+"May 21–27, 2025",AtlasIntel[123],Newsom,7.1
+"May 21–27, 2025",AtlasIntel[123],Ocasio-Cortez,19.4
+"May 21–27, 2025",AtlasIntel[123],Shapiro,4.8
+"May 21–27, 2025",AtlasIntel[123],Whitmer,3.7
+"May 21–26, 2025",McLaughlin & Associates[124],Buttigieg,10.0
+"May 21–26, 2025",McLaughlin & Associates[124],Harris,29.0
+"May 21–26, 2025",McLaughlin & Associates[124],Newsom,4.0
+"May 21–26, 2025",McLaughlin & Associates[124],Ocasio-Cortez,9.0
+"May 21–26, 2025",McLaughlin & Associates[124],Shapiro,6.0
+"May 21–26, 2025",McLaughlin & Associates[124],Whitmer,3.0
+"May 8–12, 2025",Echelon Insights[125],Buttigieg,10.0
+"May 8–12, 2025",Echelon Insights[125],Harris,32.0
+"May 8–12, 2025",Echelon Insights[125],Newsom,5.0
+"May 8–12, 2025",Echelon Insights[125],Ocasio-Cortez,8.0
+"May 8–12, 2025",Echelon Insights[125],Shapiro,2.0
+"May 8–12, 2025",Echelon Insights[125],Whitmer,2.0
+"April 22–29, 2025",McLaughlin & Associates[126],Buttigieg,6.0
+"April 22–29, 2025",McLaughlin & Associates[126],Harris,30.0
+"April 22–29, 2025",McLaughlin & Associates[126],Newsom,8.0
+"April 22–29, 2025",McLaughlin & Associates[126],Ocasio-Cortez,8.0
+"April 22–29, 2025",McLaughlin & Associates[126],Shapiro,4.0
+"April 22–29, 2025",McLaughlin & Associates[126],Whitmer,1.0
+"April 21–23, 2025",YouGov/The Times[127],Buttigieg,9.0
+"April 21–23, 2025",YouGov/The Times[127],Harris,28.0
+"April 21–23, 2025",YouGov/The Times[127],Newsom,7.0
+"April 21–23, 2025",YouGov/The Times[127],Ocasio-Cortez,7.0
+"April 21–23, 2025",YouGov/The Times[127],Shapiro,4.0
+"April 21–23, 2025",YouGov/The Times[127],Whitmer,1.0
+"April 21–23, 2025",Quantus Insights[128],Buttigieg,13.0
+"April 21–23, 2025",Quantus Insights[128],Harris,30.0
+"April 21–23, 2025",Quantus Insights[128],Newsom,7.0
+"April 21–23, 2025",Quantus Insights[128],Ocasio-Cortez,14.0
+"April 21–23, 2025",Quantus Insights[128],Shapiro,5.0
+"April 10–14, 2025",AtlasIntel[129],Buttigieg,27.7
+"April 10–14, 2025",AtlasIntel[129],Harris,24.1
+"April 10–14, 2025",AtlasIntel[129],Newsom,6.8
+"April 10–14, 2025",AtlasIntel[129],Ocasio-Cortez,15.9
+"April 10–14, 2025",AtlasIntel[129],Whitmer,8.6
+"April 10–14, 2025",Echelon Insights[130],Buttigieg,7.0
+"April 10–14, 2025",Echelon Insights[130],Harris,28.0
+"April 10–14, 2025",Echelon Insights[130],Newsom,4.0
+"April 10–14, 2025",Echelon Insights[130],Ocasio-Cortez,7.0
+"April 10–14, 2025",Echelon Insights[130],Shapiro,3.0
+"April 10–14, 2025",Echelon Insights[130],Whitmer,3.0
+"April 9–14, 2025",Data for Progress[131],Buttigieg,14.0
+"April 9–14, 2025",Data for Progress[131],Harris,18.0
+"April 9–14, 2025",Data for Progress[131],Newsom,8.0
+"April 9–14, 2025",Data for Progress[131],Ocasio-Cortez,12.0
+"April 9–14, 2025",Data for Progress[131],Shapiro,5.0
+"April 9–14, 2025",Data for Progress[131],Whitmer,4.0
+"April 1–3, 2025",Yale Youth Poll[132],Buttigieg,14.0
+"April 1–3, 2025",Yale Youth Poll[132],Harris,27.5
+"April 1–3, 2025",Yale Youth Poll[132],Newsom,6.4
+"April 1–3, 2025",Yale Youth Poll[132],Ocasio-Cortez,21.3
+"April 1–3, 2025",Yale Youth Poll[132],Shapiro,4.6
+"April 1–3, 2025",Yale Youth Poll[132],Whitmer,3.0
+"March 30 – April 1, 2025",YouGov/Economist[133],Buttigieg,10.0
+"March 30 – April 1, 2025",YouGov/Economist[133],Harris,25.0
+"March 30 – April 1, 2025",YouGov/Economist[133],Newsom,7.0
+"March 30 – April 1, 2025",YouGov/Economist[133],Ocasio-Cortez,8.0
+"March 30 – April 1, 2025",YouGov/Economist[133],Whitmer,2.0
+"March 14–16, 2025",Morning Consult[134],Buttigieg,10.0
+"March 14–16, 2025",Morning Consult[134],Harris,36.0
+"March 14–16, 2025",Morning Consult[134],Newsom,5.0
+"March 14–16, 2025",Morning Consult[134],Ocasio-Cortez,5.0
+"March 14–16, 2025",Morning Consult[134],Shapiro,4.0
+"March 14–16, 2025",Morning Consult[134],Whitmer,2.0
+"March 10–13, 2025",Echelon Insights[135],Buttigieg,10.0
+"March 10–13, 2025",Echelon Insights[135],Harris,33.0
+"March 10–13, 2025",Echelon Insights[135],Newsom,7.0
+"March 10–13, 2025",Echelon Insights[135],Ocasio-Cortez,7.0
+"March 10–13, 2025",Echelon Insights[135],Shapiro,2.0
+"March 10–13, 2025",Echelon Insights[135],Whitmer,2.0
+"February 13–16, 2025",SurveyUSA[136],Buttigieg,11.0
+"February 13–16, 2025",SurveyUSA[136],Harris,37.0
+"February 13–16, 2025",SurveyUSA[136],Newsom,9.0
+"February 13–16, 2025",SurveyUSA[136],Ocasio-Cortez,7.0
+"February 13–16, 2025",SurveyUSA[136],Shapiro,6.0
+"February 13–16, 2025",SurveyUSA[136],Whitmer,4.0
+"February 11–18, 2025",McLaughlin & Associates[137],Buttigieg,8.0
+"February 11–18, 2025",McLaughlin & Associates[137],Harris,36.0
+"February 11–18, 2025",McLaughlin & Associates[137],Newsom,4.0
+"February 11–18, 2025",McLaughlin & Associates[137],Ocasio-Cortez,3.0
+"February 11–18, 2025",McLaughlin & Associates[137],Shapiro,3.0
+"February 11–18, 2025",McLaughlin & Associates[137],Whitmer,4.0
+"February 10–13, 2025",Echelon Insights[138],Buttigieg,10.0
+"February 10–13, 2025",Echelon Insights[138],Harris,36.0
+"February 10–13, 2025",Echelon Insights[138],Newsom,6.0
+"February 10–13, 2025",Echelon Insights[138],Ocasio-Cortez,5.0
+"February 10–13, 2025",Echelon Insights[138],Shapiro,3.0
+"February 10–13, 2025",Echelon Insights[138],Whitmer,4.0
+"January 22–27, 2025",McLaughlin & Associates[139],Buttigieg,9.0
+"January 22–27, 2025",McLaughlin & Associates[139],Harris,33.0
+"January 22–27, 2025",McLaughlin & Associates[139],Newsom,7.0
+"January 22–27, 2025",McLaughlin & Associates[139],Ocasio-Cortez,6.0
+"January 22–27, 2025",McLaughlin & Associates[139],Shapiro,3.0
+"January 22–27, 2025",McLaughlin & Associates[139],Whitmer,3.0
+"December 11–16, 2024",McLaughlin & Associates[140],Buttigieg,12.0
+"December 11–16, 2024",McLaughlin & Associates[140],Harris,35.0
+"December 11–16, 2024",McLaughlin & Associates[140],Newsom,7.0
+"December 11–16, 2024",McLaughlin & Associates[140],Ocasio-Cortez,3.0
+"December 11–16, 2024",McLaughlin & Associates[140],Shapiro,5.0
+"December 11–16, 2024",McLaughlin & Associates[140],Whitmer,3.0
+"November 20–22, 2024",Emerson College[141],Buttigieg,4.0
+"November 20–22, 2024",Emerson College[141],Harris,37.0
+"November 20–22, 2024",Emerson College[141],Newsom,7.0
+"November 20–22, 2024",Emerson College[141],Ocasio-Cortez,1.0
+"November 20–22, 2024",Emerson College[141],Shapiro,3.0
+"November 20–22, 2024",Emerson College[141],Whitmer,3.0
+"November 14–18, 2024",Echelon Insights[142],Buttigieg,6.0
+"November 14–18, 2024",Echelon Insights[142],Harris,41.0
+"November 14–18, 2024",Echelon Insights[142],Newsom,8.0
+"November 14–18, 2024",Echelon Insights[142],Ocasio-Cortez,4.0
+"November 14–18, 2024",Echelon Insights[142],Shapiro,7.0
+"November 14–18, 2024",Echelon Insights[142],Whitmer,3.0
+"November 15–17, 2024",Morning Consult[143],Buttigieg,9.0
+"November 15–17, 2024",Morning Consult[143],Harris,43.0
+"November 15–17, 2024",Morning Consult[143],Newsom,8.0
+"November 15–17, 2024",Morning Consult[143],Ocasio-Cortez,4.0
+"November 15–17, 2024",Morning Consult[143],Shapiro,5.0
+"November 15–17, 2024",Morning Consult[143],Whitmer,3.0
+"May 28–29, 2024",Morning Consult/Politico[144],Buttigieg,10.0
+"May 28–29, 2024",Morning Consult/Politico[144],Harris,21.0
+"May 28–29, 2024",Morning Consult/Politico[144],Newsom,10.0
+"May 28–29, 2024",Morning Consult/Politico[144],Shapiro,3.0
+"May 28–29, 2024",Morning Consult/Politico[144],Whitmer,4.0
+"January 16–18, 2024",Echelon Insights[145],Buttigieg,13.0
+"January 16–18, 2024",Echelon Insights[145],Harris,33.0
+"January 16–18, 2024",Echelon Insights[145],Newsom,11.0
+"January 16–18, 2024",Echelon Insights[145],Shapiro,2.0
+"January 16–18, 2024",Echelon Insights[145],Whitmer,3.0
